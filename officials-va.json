@@ -1,0 +1,89 @@
+[
+  {
+    "id": "va-sen-1",
+    "name": "Tim Kaine",
+    "level": "federal",
+    "office": "U.S. Senate",
+    "chamber": "senate",
+    "state": "VA",
+    "district": "",
+    "party": "Democratic",
+    "phones": ["202-224-4024"],
+    "emails": [],
+    "websites": ["https://www.kaine.senate.gov/"],
+    "addresses": ["231 Russell Senate Office Building, Washington, DC 20510"]
+  },
+  {
+    "id": "va-sen-2",
+    "name": "Mark Warner",
+    "level": "federal",
+    "office": "U.S. Senate",
+    "chamber": "senate",
+    "state": "VA",
+    "district": "",
+    "party": "Democratic",
+    "phones": ["202-224-2023"],
+    "emails": [],
+    "websites": ["https://www.warner.senate.gov/"],
+    "addresses": ["703 Hart Senate Office Building, Washington, DC 20510"]
+  },
+
+  {
+    "id": "va-house-1",
+    "name": "Rob Wittman",
+    "level": "federal",
+    "office": "U.S. House",
+    "chamber": "house",
+    "state": "VA",
+    "district": "VA-01",
+    "party": "Republican",
+    "phones": ["202-225-4261"],
+    "emails": [],
+    "websites": ["https://wittman.house.gov/"],
+    "addresses": ["2055 Rayburn House Office Building, Washington, DC 20515"]
+  },
+  {
+    "id": "va-house-2",
+    "name": "Jen Kiggans",
+    "level": "federal",
+    "office": "U.S. House",
+    "chamber": "house",
+    "state": "VA",
+    "district": "VA-02",
+    "party": "Republican",
+    "phones": ["202-225-4215"],
+    "emails": [],
+    "websites": ["https://kiggans.house.gov/"],
+    "addresses": ["1037 Longworth House Office Building, Washington, DC 20515"]
+  },
+  {
+    "id": "va-house-3",
+    "name": "Bobby Scott",
+    "level": "federal",
+    "office": "U.S. House",
+    "chamber": "house",
+    "state": "VA",
+    "district": "VA-03",
+    "party": "Democratic",
+    "phones": ["202-225-8351"],
+    "emails": [],
+    "websites": ["https://bobbyscott.house.gov/"],
+    "addresses": ["1201 Longworth House Office Building, Washington, DC 20515"]
+  },
+  {
+    "id": "va-house-4",
+    "name": "Jennifer McClellan",
+    "level": "federal",
+    "office": "U.S. House",
+    "chamber": "house",
+    "state": "VA",
+    "district": "VA-04",
+    "party": "Democratic",
+    "phones": ["202-225-6365"],
+    "emails": [],
+    "websites": ["https://mcclellan.house.gov/"],
+    "addresses": ["1620 Longworth House Office Building, Washington, DC 20515"]
+  }
+
+  /* Continue VA-05 through VA-11 using the same format */
+]
