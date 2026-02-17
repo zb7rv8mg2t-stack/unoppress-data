@@ -1,1 +1,70 @@
-
+{
+  "state": "IA",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Chuck Grassley",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "IA",
+      "dc_office": {
+        "address": "135 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3744"
+      },
+      "website": "https://www.grassley.senate.gov/"
+    },
+    {
+      "name": "Joni Ernst",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "IA",
+      "dc_office": {
+        "address": "825B Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3254"
+      },
+      "website": "https://www.ernst.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "IA-01",
+      "name": "Mariannette Miller-Meeks",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1716 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6576"
+      },
+      "website": "https://millermeeks.house.gov/"
+    },
+    {
+      "district": "IA-02",
+      "name": "Ashley Hinson",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1429 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2911"
+      },
+      "website": "https://hinson.house.gov/"
+    },
+    {
+      "district": "IA-03",
+      "name": "Zach Nunn",
+      "party": "Republican",
+      "dc_office": {
+        "address": "118 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5476"
+      },
+      "website": "https://nunn.house.gov/"
+    },
+    {
+      "district": "IA-04",
+      "name": "Randy Feenstra",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1440 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4426"
+      },
+      "website": "https://feenstra.house.gov/"
+    }
+  ]
+}
