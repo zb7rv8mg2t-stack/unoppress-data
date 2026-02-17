@@ -1,1 +1,110 @@
-
+{
+  "state": "MO",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Josh Hawley",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "MO",
+      "dc_office": {
+        "address": "115 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6154"
+      },
+      "website": "https://www.hawley.senate.gov/"
+    },
+    {
+      "name": "Eric Schmitt",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "MO",
+      "dc_office": {
+        "address": "B40B Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5721"
+      },
+      "website": "https://www.schmitt.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "MO-01",
+      "name": "Cori Bush",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "1236 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2406"
+      },
+      "website": "https://bush.house.gov/"
+    },
+    {
+      "district": "MO-02",
+      "name": "Ann Wagner",
+      "party": "Republican",
+      "dc_office": {
+        "address": "435 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-1621"
+      },
+      "website": "https://wagner.house.gov/"
+    },
+    {
+      "district": "MO-03",
+      "name": "Bob Onder",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1516 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2956"
+      },
+      "website": "https://onder.house.gov/"
+    },
+    {
+      "district": "MO-04",
+      "name": "Mark Alford",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1513 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2876"
+      },
+      "website": "https://alford.house.gov/"
+    },
+    {
+      "district": "MO-05",
+      "name": "Emanuel Cleaver",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "2211 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4535"
+      },
+      "website": "https://cleaver.house.gov/"
+    },
+    {
+      "district": "MO-06",
+      "name": "Sam Graves",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1135 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-7041"
+      },
+      "website": "https://graves.house.gov/"
+    },
+    {
+      "district": "MO-07",
+      "name": "Eric Burlison",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1108 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6536"
+      },
+      "website": "https://burlison.house.gov/"
+    },
+    {
+      "district": "MO-08",
+      "name": "Jason Smith",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1011 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4404"
+      },
+      "website": "https://jasonsmith.house.gov/"
+    }
+  ]
+}
