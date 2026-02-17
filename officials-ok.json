@@ -1,1 +1,80 @@
-
+{
+  "state": "OK",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "James Lankford",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "OK",
+      "dc_office": {
+        "address": "316 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5754"
+      },
+      "website": "https://www.lankford.senate.gov/"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "OK",
+      "dc_office": {
+        "address": "B40C Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4721"
+      },
+      "website": "https://www.mullin.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "OK-01",
+      "name": "Kevin Hern",
+      "party": "Republican",
+      "dc_office": {
+        "address": "171 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2211"
+      },
+      "website": "https://hern.house.gov/"
+    },
+    {
+      "district": "OK-02",
+      "name": "Josh Brecheen",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1531 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2701"
+      },
+      "website": "https://brecheen.house.gov/"
+    },
+    {
+      "district": "OK-03",
+      "name": "Frank Lucas",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2405 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5565"
+      },
+      "website": "https://lucas.house.gov/"
+    },
+    {
+      "district": "OK-04",
+      "name": "Tom Cole",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2207 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6165"
+      },
+      "website": "https://cole.house.gov/"
+    },
+    {
+      "district": "OK-05",
+      "name": "Stephanie Bice",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1708 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2132"
+      },
+      "website": "https://bice.house.gov/"
+    }
+  ]
+}
