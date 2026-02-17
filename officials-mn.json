@@ -1,0 +1,119 @@
+{
+  "state": "MN",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "Minnesota state portal: Minnesota Members of Congress (DC office + phone)"
+    ],
+    "senate": [
+      "Minnesota state portal: Minnesota Members of Congress (DC office + phone)",
+      "U.S. Senate Suite & Telephone List (119th Congress) (phone format confirmation)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Tina Smith",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "MN",
+      "dc_office": {
+        "address": "720 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5641"
+      },
+      "website": "https://www.smith.senate.gov/"
+    },
+    {
+      "name": "Amy Klobuchar",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "MN",
+      "dc_office": {
+        "address": "425 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3244"
+      },
+      "website": "https://www.klobuchar.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "MN-01",
+      "name": "Brad Finstad",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2418 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2472"
+      },
+      "website": "https://finstad.house.gov/"
+    },
+    {
+      "district": "MN-02",
+      "name": "Angie Craig",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2052 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2271"
+      },
+      "website": "https://craig.house.gov/"
+    },
+    {
+      "district": "MN-03",
+      "name": "Kelly Morrison",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1205 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2871"
+      },
+      "website": "https://morrison.house.gov/"
+    },
+    {
+      "district": "MN-04",
+      "name": "Betty McCollum",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2426 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6631"
+      },
+      "website": "https://mccollum.house.gov/"
+    },
+    {
+      "district": "MN-05",
+      "name": "Ilhan Omar",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1730 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4755"
+      },
+      "website": "https://omar.house.gov/"
+    },
+    {
+      "district": "MN-06",
+      "name": "Tom Emmer",
+      "party": "Republican",
+      "dc_office": {
+        "address": "326 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2331"
+      },
+      "website": "https://emmer.house.gov/"
+    },
+    {
+      "district": "MN-07",
+      "name": "Michelle Fischbach",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2229 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2165"
+      },
+      "website": "https://fischbach.house.gov/"
+    },
+    {
+      "district": "MN-08",
+      "name": "Pete Stauber",
+      "party": "Republican",
+      "dc_office": {
+        "address": "145 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6211"
+      },
+      "website": "https://stauber.house.gov/"
+    }
+  ]
+}
