@@ -1,1 +1,120 @@
-
+{
+  "state": "IN",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Todd Young",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "IN",
+      "dc_office": {
+        "address": "185 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5623"
+      },
+      "website": "https://www.young.senate.gov/"
+    },
+    {
+      "name": "Mike Braun",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "IN",
+      "dc_office": {
+        "address": "404 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4814"
+      },
+      "website": "https://www.braun.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "IN-01",
+      "name": "Frank Mrvan",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "2238 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2461"
+      },
+      "website": "https://mrvan.house.gov/"
+    },
+    {
+      "district": "IN-02",
+      "name": "Rudy Yakym",
+      "party": "Republican",
+      "dc_office": {
+        "address": "355 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3915"
+      },
+      "website": "https://yakym.house.gov/"
+    },
+    {
+      "district": "IN-03",
+      "name": "Jim Banks",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1713 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4436"
+      },
+      "website": "https://banks.house.gov/"
+    },
+    {
+      "district": "IN-04",
+      "name": "Jim Baird",
+      "party": "Republican",
+      "dc_office": {
+        "address": "230 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5037"
+      },
+      "website": "https://baird.house.gov/"
+    },
+    {
+      "district": "IN-05",
+      "name": "Victoria Spartz",
+      "party": "Republican",
+      "dc_office": {
+        "address": "152 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2276"
+      },
+      "website": "https://spartz.house.gov/"
+    },
+    {
+      "district": "IN-06",
+      "name": "Greg Pence",
+      "party": "Republican",
+      "dc_office": {
+        "address": "404 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3021"
+      },
+      "website": "https://pence.house.gov/"
+    },
+    {
+      "district": "IN-07",
+      "name": "André Carson",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "2453 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4011"
+      },
+      "website": "https://carson.house.gov/"
+    },
+    {
+      "district": "IN-08",
+      "name": "Larry Bucshon",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2313 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4636"
+      },
+      "website": "https://bucshon.house.gov/"
+    },
+    {
+      "district": "IN-09",
+      "name": "Erin Houchin",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1727 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5315"
+      },
+      "website": "https://houchin.house.gov/"
+    }
+  ]
+}
