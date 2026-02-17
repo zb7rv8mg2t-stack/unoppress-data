@@ -1,0 +1,92 @@
+{
+  "state": "CT",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "Clerk of the House directory (119th Congress)",
+      "Official House member websites"
+    ],
+    "senate": [
+      "U.S. Senate official directory",
+      "Senators' official websites"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Richard Blumenthal",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "CT",
+      "dc_office": {
+        "address": "706 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2823"
+      },
+      "website": "https://www.blumenthal.senate.gov/",
+      "district_offices_url": "https://www.blumenthal.senate.gov/about/office-locations"
+    },
+    {
+      "name": "Christopher S. Murphy",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "CT",
+      "dc_office": {
+        "address": "136 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4041"
+      },
+      "website": "https://www.murphy.senate.gov/",
+      "district_offices_url": "https://www.murphy.senate.gov/contact"
+    }
+  ],
+  "house": [
+    {
+      "district": "CT-01",
+      "name": "John B. Larson",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1501 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2265"
+      },
+      "website": "https://larson.house.gov/"
+    },
+    {
+      "district": "CT-02",
+      "name": "Joe Courtney",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2332 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2076"
+      },
+      "website": "https://courtney.house.gov/"
+    },
+    {
+      "district": "CT-03",
+      "name": "Rosa L. DeLauro",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2413 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3661"
+      },
+      "website": "https://delauro.house.gov/"
+    },
+    {
+      "district": "CT-04",
+      "name": "Jim Himes",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "119 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5541"
+      },
+      "website": "https://himes.house.gov/"
+    },
+    {
+      "district": "CT-05",
+      "name": "Jahana Hayes",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1533 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4476"
+      },
+      "website": "https://hayes.house.gov/"
+    }
+  ]
+}
