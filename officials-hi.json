@@ -1,0 +1,62 @@
+{
+  "state": "HI",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "Congress.gov member profiles (DC office + phone)",
+      "Office of the Clerk member pages (contact + committees)"
+    ],
+    "senate": [
+      "U.S. Senate Senators' Suite & Telephone List (senate.gov PDF)",
+      "Senators' official contact pages (office address + phone)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Brian Schatz",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "HI",
+      "dc_office": {
+        "address": "722 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3934"
+      },
+      "website": "https://www.schatz.senate.gov/",
+      "district_offices_url": "https://www.schatz.senate.gov/office-locations"
+    },
+    {
+      "name": "Mazie K. Hirono",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "HI",
+      "dc_office": {
+        "address": "109 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6361"
+      },
+      "website": "https://www.hirono.senate.gov/",
+      "district_offices_url": "https://www.hirono.senate.gov/contact"
+    }
+  ],
+  "house": [
+    {
+      "district": "HI-01",
+      "name": "Ed Case",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2210 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2726"
+      },
+      "website": "https://case.house.gov/"
+    },
+    {
+      "district": "HI-02",
+      "name": "Jill N. Tokuda",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1027 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4906"
+      },
+      "website": "https://tokuda.house.gov/"
+    }
+  ]
+}
