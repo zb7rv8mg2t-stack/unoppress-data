@@ -1,0 +1,62 @@
+{
+  "state": "NH",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "senate": [
+      "Senators' official contact pages (DC office + phone)",
+      "U.S. Senate Senators' Suite & Telephone List (PDF)"
+    ],
+    "house": [
+      "Clerk of the House member pages (DC office + phone)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Jeanne Shaheen",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "NH",
+      "dc_office": {
+        "address": "506 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2841"
+      },
+      "website": "https://www.shaheen.senate.gov/",
+      "district_offices_url": "https://www.shaheen.senate.gov/contact"
+    },
+    {
+      "name": "Maggie Hassan",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "NH",
+      "dc_office": {
+        "address": "324 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3324"
+      },
+      "website": "https://www.hassan.senate.gov/",
+      "district_offices_url": "https://www.hassan.senate.gov/contact"
+    }
+  ],
+  "house": [
+    {
+      "district": "NH-01",
+      "name": "Chris Pappas",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "452 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5456"
+      },
+      "website": "https://pappas.house.gov/",
+      "district_offices_url": "https://pappas.house.gov/contact/offices"
+    },
+    {
+      "district": "NH-02",
+      "name": "Maggie Goodlander",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "223 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5206"
+      },
+      "website": "https://goodlander.house.gov/"
+    }
+  ]
+}
