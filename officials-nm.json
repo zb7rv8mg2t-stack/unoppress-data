@@ -1,0 +1,87 @@
+{
+  "state": "NV",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "Congress.gov member contact listings",
+      "Clerk of the House member contact pages",
+      "Official House member office locations pages (house.gov)"
+    ],
+    "senate": [
+      "Congress.gov member contact listings",
+      "Senators' official office locations pages (senate.gov)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Catherine Cortez Masto",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "NV",
+      "dc_office": {
+        "address": "309 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3542"
+      },
+      "website": "https://www.cortezmasto.senate.gov/",
+      "district_offices_url": "https://www.cortezmasto.senate.gov/contact/"
+    },
+    {
+      "name": "Jacky Rosen",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "NV",
+      "dc_office": {
+        "address": "713 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6244"
+      },
+      "website": "https://www.rosen.senate.gov/",
+      "district_offices_url": "https://www.rosen.senate.gov/office-locations/"
+    }
+  ],
+  "house": [
+    {
+      "district": "NV-01",
+      "name": "Dina Titus",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2370 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5965"
+      },
+      "website": "https://titus.house.gov/",
+      "district_offices_url": "https://titus.house.gov/contact/offices.htm"
+    },
+    {
+      "district": "NV-02",
+      "name": "Mark E. Amodei",
+      "party": "Republican",
+      "dc_office": {
+        "address": "104 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6155"
+      },
+      "website": "https://amodei.house.gov/",
+      "district_offices_url": "https://amodei.house.gov/contact/offices"
+    },
+    {
+      "district": "NV-03",
+      "name": "Susie Lee",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "365 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3252"
+      },
+      "website": "https://susielee.house.gov/",
+      "district_offices_url": "https://susielee.house.gov/contact/offices"
+    },
+    {
+      "district": "NV-04",
+      "name": "Steven Horsford",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "406 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-9894"
+      },
+      "website": "https://horsford.house.gov/",
+      "district_offices_url": "https://horsford.house.gov/contact/offices"
+    }
+  ]
+}
