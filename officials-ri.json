@@ -1,0 +1,60 @@
+{
+  "state": "RI",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "senate": [
+      "Congress.gov member profiles (DC address + phone)"
+    ],
+    "house": [
+      "Members' official House office locations pages (DC address + phone)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Jack Reed",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "RI",
+      "dc_office": {
+        "address": "728 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4642"
+      },
+      "website": "https://www.reed.senate.gov/"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "RI",
+      "dc_office": {
+        "address": "530 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2921"
+      },
+      "website": "https://www.whitehouse.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "RI-01",
+      "name": "Gabe Amo",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1119 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4911"
+      },
+      "website": "https://amo.house.gov/",
+      "district_offices_url": "https://amo.house.gov/contact/offices"
+    },
+    {
+      "district": "RI-02",
+      "name": "Seth Magaziner",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "252 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2735"
+      },
+      "website": "https://magaziner.house.gov/",
+      "district_offices_url": "https://magaziner.house.gov/contact/offices"
+    }
+  ]
+}
