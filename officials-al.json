@@ -1,1 +1,100 @@
-
+{
+  "state": "AL",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Tommy Tuberville",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "AL",
+      "dc_office": {
+        "address": "142 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4124"
+      },
+      "website": "https://www.tuberville.senate.gov/"
+    },
+    {
+      "name": "Katie Britt",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "AL",
+      "dc_office": {
+        "address": "B40C Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5744"
+      },
+      "website": "https://www.britt.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "AL-01",
+      "name": "Barry Moore",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1504 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2901"
+      },
+      "website": "https://barrymoore.house.gov/"
+    },
+    {
+      "district": "AL-02",
+      "name": "Shomari Figures",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "1223 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4931"
+      },
+      "website": "https://figures.house.gov/"
+    },
+    {
+      "district": "AL-03",
+      "name": "Mike Rogers",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2184 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3261"
+      },
+      "website": "https://mikerogers.house.gov/"
+    },
+    {
+      "district": "AL-04",
+      "name": "Robert Aderholt",
+      "party": "Republican",
+      "dc_office": {
+        "address": "266 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4876"
+      },
+      "website": "https://aderholt.house.gov/"
+    },
+    {
+      "district": "AL-05",
+      "name": "Dale Strong",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2435 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4801"
+      },
+      "website": "https://strong.house.gov/"
+    },
+    {
+      "district": "AL-06",
+      "name": "Gary Palmer",
+      "party": "Republican",
+      "dc_office": {
+        "address": "170 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4921"
+      },
+      "website": "https://palmer.house.gov/"
+    },
+    {
+      "district": "AL-07",
+      "name": "Terri Sewell",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "2201 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2665"
+      },
+      "website": "https://sewell.house.gov/"
+    }
+  ]
+}
