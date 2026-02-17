@@ -1,0 +1,210 @@
+{
+  "state": "PA",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "senate": [
+      "U.S. Senate Suite & Telephone List (119th Congress)",
+      "Official Senate member websites"
+    ],
+    "house": [
+      "TTD-119 Official Member Telephone Directory (Clerk of the House)",
+      "Official House member websites"
+    ]
+  },
+  "senators": [
+    {
+      "name": "John Fetterman",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "PA",
+      "dc_office": {
+        "address": "142 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4254"
+      },
+      "website": "https://www.fetterman.senate.gov/"
+    },
+    {
+      "name": "David McCormick",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "PA",
+      "dc_office": {
+        "address": "503 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6324"
+      },
+      "website": "https://www.mccormick.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "PA-01",
+      "name": "Brian Fitzpatrick",
+      "party": "Republican",
+      "dc_office": {
+        "address": "271 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4276"
+      },
+      "website": "https://fitzpatrick.house.gov/"
+    },
+    {
+      "district": "PA-02",
+      "name": "Brendan F. Boyle",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1502 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6111"
+      },
+      "website": "https://boyle.house.gov/"
+    },
+    {
+      "district": "PA-03",
+      "name": "Dwight Evans",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1105 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4001"
+      },
+      "website": "https://evans.house.gov/"
+    },
+    {
+      "district": "PA-04",
+      "name": "Madeleine Dean",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "120 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4731"
+      },
+      "website": "https://dean.house.gov/"
+    },
+    {
+      "district": "PA-05",
+      "name": "Mary Gay Scanlon",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1535 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2011"
+      },
+      "website": "https://scanlon.house.gov/"
+    },
+    {
+      "district": "PA-06",
+      "name": "Chrissy Houlahan",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1727 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4315"
+      },
+      "website": "https://houlahan.house.gov/"
+    },
+    {
+      "district": "PA-07",
+      "name": "Susan Wild",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1027 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6411"
+      },
+      "website": "https://wild.house.gov/"
+    },
+    {
+      "district": "PA-08",
+      "name": "Robert Bresnahan Jr.",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1513 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5546"
+      },
+      "website": "https://bresnahan.house.gov/"
+    },
+    {
+      "district": "PA-09",
+      "name": "Dan Meuser",
+      "party": "Republican",
+      "dc_office": {
+        "address": "227 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6511"
+      },
+      "website": "https://meuser.house.gov/"
+    },
+    {
+      "district": "PA-10",
+      "name": "Scott Perry",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2160 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5836"
+      },
+      "website": "https://perry.house.gov/"
+    },
+    {
+      "district": "PA-11",
+      "name": "Lloyd Smucker",
+      "party": "Republican",
+      "dc_office": {
+        "address": "302 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2411"
+      },
+      "website": "https://smucker.house.gov/"
+    },
+    {
+      "district": "PA-12",
+      "name": "Summer Lee",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1429 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2135"
+      },
+      "website": "https://summerlee.house.gov/"
+    },
+    {
+      "district": "PA-13",
+      "name": "John Joyce",
+      "party": "Republican",
+      "dc_office": {
+        "address": "152 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2431"
+      },
+      "website": "https://johnjoyce.house.gov/"
+    },
+    {
+      "district": "PA-14",
+      "name": "Guy Reschenthaler",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2232 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2065"
+      },
+      "website": "https://reschenthaler.house.gov/"
+    },
+    {
+      "district": "PA-15",
+      "name": "Glenn \"GT\" Thompson",
+      "party": "Republican",
+      "dc_office": {
+        "address": "400 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5121"
+      },
+      "website": "https://thompson.house.gov/"
+    },
+    {
+      "district": "PA-16",
+      "name": "Mike Kelly",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1707 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5406"
+      },
+      "website": "https://kelly.house.gov/"
+    },
+    {
+      "district": "PA-17",
+      "name": "Chris Deluzio",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1111 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2565"
+      },
+      "website": "https://deluzio.house.gov/"
+    }
+  ]
+}
