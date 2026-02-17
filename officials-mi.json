@@ -1,0 +1,156 @@
+{
+  "state": "MI",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "TTD-119 Official Member Telephone Directory (Clerk of the House)"
+    ],
+    "senate": [
+      "TTD-119 Official Member Telephone Directory (Clerk of the House) — Senate list section",
+      "Congress.gov member profiles (website cross-check)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Gary C. Peters",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "MI",
+      "dc_office": {
+        "address": "724 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6221"
+      },
+      "website": "https://www.peters.senate.gov/"
+    },
+    {
+      "name": "Elissa Slotkin",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "MI",
+      "dc_office": {
+        "address": "291 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4822"
+      },
+      "website": "https://www.slotkin.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "MI-01",
+      "name": "Jack Bergman",
+      "party": "Republican",
+      "dc_office": {
+        "address": "566 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4735"
+      }
+    },
+    {
+      "district": "MI-02",
+      "name": "John R. Moolenaar",
+      "party": "Republican",
+      "dc_office": {
+        "address": "246 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3561"
+      }
+    },
+    {
+      "district": "MI-03",
+      "name": "Hillary J. Scholten",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1317 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3831"
+      }
+    },
+    {
+      "district": "MI-04",
+      "name": "Bill Huizenga",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2232 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4401"
+      }
+    },
+    {
+      "district": "MI-05",
+      "name": "Tim Walberg",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2266 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6276"
+      }
+    },
+    {
+      "district": "MI-06",
+      "name": "Debbie Dingell",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "102 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4071"
+      }
+    },
+    {
+      "district": "MI-07",
+      "name": "Tom Barrett",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1232 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4872"
+      }
+    },
+    {
+      "district": "MI-08",
+      "name": "Kristen McDonald Rivet",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1408 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3611"
+      }
+    },
+    {
+      "district": "MI-09",
+      "name": "Lisa C. McClain",
+      "party": "Republican",
+      "dc_office": {
+        "address": "562 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2106"
+      }
+    },
+    {
+      "district": "MI-10",
+      "name": "John James",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1519 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4961"
+      }
+    },
+    {
+      "district": "MI-11",
+      "name": "Haley M. Stevens",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2411 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-8171"
+      }
+    },
+    {
+      "district": "MI-12",
+      "name": "Rashida Tlaib",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2438 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5126"
+      }
+    },
+    {
+      "district": "MI-13",
+      "name": "Shri Thanedar",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "154 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5802"
+      }
+    }
+  ]
+}
