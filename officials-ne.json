@@ -1,1 +1,60 @@
-
+{
+  "state": "NE",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Deb Fischer",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "NE",
+      "dc_office": {
+        "address": "448 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6551"
+      },
+      "website": "https://www.fischer.senate.gov/"
+    },
+    {
+      "name": "Pete Ricketts",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "NE",
+      "dc_office": {
+        "address": "139 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4224"
+      },
+      "website": "https://www.ricketts.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "NE-01",
+      "name": "Mike Flood",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1524 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4806"
+      },
+      "website": "https://flood.house.gov/"
+    },
+    {
+      "district": "NE-02",
+      "name": "Don Bacon",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1516 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4155"
+      },
+      "website": "https://bacon.house.gov/"
+    },
+    {
+      "district": "NE-03",
+      "name": "Adrian Smith",
+      "party": "Republican",
+      "dc_office": {
+        "address": "502 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6435"
+      },
+      "website": "https://adriansmith.house.gov/"
+    }
+  ]
+}
