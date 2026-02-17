@@ -1,0 +1,420 @@
+{
+  "state": "TX",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "TTD-119 Official Member Telephone Directory (Clerk of the House)",
+      "unitedstates/congress-legislators legislators-current.yaml (party + official websites)"
+    ],
+    "senate": [
+      "TTD-119 Official Member Telephone Directory (Clerk of the House)",
+      "unitedstates/congress-legislators legislators-current.yaml (party + official websites)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "John Cornyn",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "TX",
+      "dc_office": {
+        "address": "SH-517 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2934"
+      },
+      "website": "https://www.cornyn.senate.gov"
+    },
+    {
+      "name": "Ted Cruz",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "TX",
+      "dc_office": {
+        "address": "SR-167 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5922"
+      },
+      "website": "https://www.cruz.senate.gov"
+    }
+  ],
+  "house": [
+    {
+      "district": "TX-01",
+      "name": "Nathaniel Moran",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1605 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3035"
+      },
+      "website": "https://moran.house.gov"
+    },
+    {
+      "district": "TX-02",
+      "name": "Dan Crenshaw",
+      "party": "Republican",
+      "dc_office": {
+        "address": "248 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6565"
+      },
+      "website": "https://crenshaw.house.gov"
+    },
+    {
+      "district": "TX-03",
+      "name": "Keith Self",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1030 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4201"
+      },
+      "website": "https://keithself.house.gov"
+    },
+    {
+      "district": "TX-04",
+      "name": "Pat Fallon",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2416 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6673"
+      },
+      "website": "https://fallon.house.gov"
+    },
+    {
+      "district": "TX-05",
+      "name": "Lance Gooden",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2431 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3484"
+      },
+      "website": "https://gooden.house.gov"
+    },
+    {
+      "district": "TX-06",
+      "name": "Jake Ellzey",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1721 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2002"
+      },
+      "website": "https://ellzey.house.gov"
+    },
+    {
+      "district": "TX-07",
+      "name": "Lizzie Fletcher",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2004 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2571"
+      },
+      "website": "https://fletcher.house.gov"
+    },
+    {
+      "district": "TX-08",
+      "name": "Morgan Luttrell",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1404 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4901"
+      },
+      "website": "https://luttrell.house.gov"
+    },
+    {
+      "district": "TX-09",
+      "name": "Al Green",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2347 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-7508"
+      },
+      "website": "https://algreen.house.gov"
+    },
+    {
+      "district": "TX-10",
+      "name": "Michael McCaul",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2001 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2401"
+      },
+      "website": "https://mccaul.house.gov"
+    },
+    {
+      "district": "TX-11",
+      "name": "August Pfluger",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1124 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3605"
+      },
+      "website": "https://pfluger.house.gov"
+    },
+    {
+      "district": "TX-12",
+      "name": "Craig Goldman",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1716 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5071"
+      },
+      "website": "https://goldman.house.gov"
+    },
+    {
+      "district": "TX-13",
+      "name": "Ronny Jackson",
+      "party": "Republican",
+      "dc_office": {
+        "address": "118 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3706"
+      },
+      "website": "https://jackson.house.gov"
+    },
+    {
+      "district": "TX-14",
+      "name": "Randy Weber",
+      "party": "Republican",
+      "dc_office": {
+        "address": "107 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2831"
+      },
+      "website": "https://weber.house.gov"
+    },
+    {
+      "district": "TX-15",
+      "name": "Monica De La Cruz",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1415 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-9901"
+      },
+      "website": "https://delacruz.house.gov"
+    },
+    {
+      "district": "TX-16",
+      "name": "Veronica Escobar",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2448 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4831"
+      },
+      "website": "https://escobar.house.gov"
+    },
+    {
+      "district": "TX-17",
+      "name": "Pete Sessions",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2221 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6105"
+      },
+      "website": "https://sessions.house.gov"
+    },
+    {
+      "district": "TX-18",
+      "name": "Sheila Jackson Lee",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2079 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3816"
+      },
+      "website": "https://jacksonlee.house.gov"
+    },
+    {
+      "district": "TX-19",
+      "name": "Jodey C. Arrington",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1111 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4005"
+      },
+      "website": "https://arrington.house.gov"
+    },
+    {
+      "district": "TX-20",
+      "name": "Joaquin Castro",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2241 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3236"
+      },
+      "website": "https://castro.house.gov"
+    },
+    {
+      "district": "TX-21",
+      "name": "Chip Roy",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1005 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4236"
+      },
+      "website": "https://roy.house.gov"
+    },
+    {
+      "district": "TX-22",
+      "name": "Troy E. Nehls",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1104 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-9561"
+      },
+      "website": "https://nehls.house.gov"
+    },
+    {
+      "district": "TX-23",
+      "name": "Tony Gonzales",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2239 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4511"
+      },
+      "website": "https://gonzales.house.gov"
+    },
+    {
+      "district": "TX-24",
+      "name": "Beth Van Duyne",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1725 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6605"
+      },
+      "website": "https://vanduyne.house.gov"
+    },
+    {
+      "district": "TX-25",
+      "name": "Roger Williams",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1708 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-9896"
+      },
+      "website": "https://williams.house.gov"
+    },
+    {
+      "district": "TX-26",
+      "name": "Brandon Gill",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1305 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-7772"
+      },
+      "website": "https://gill.house.gov"
+    },
+    {
+      "district": "TX-27",
+      "name": "Michael Cloud",
+      "party": "Republican",
+      "dc_office": {
+        "address": "304 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-7742"
+      },
+      "website": "https://cloud.house.gov"
+    },
+    {
+      "district": "TX-28",
+      "name": "Henry Cuellar",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2308 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-1640"
+      },
+      "website": "https://cuellar.house.gov"
+    },
+    {
+      "district": "TX-29",
+      "name": "Sylvia R. Garcia",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2419 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-1688"
+      },
+      "website": "https://sylviagarcia.house.gov"
+    },
+    {
+      "district": "TX-30",
+      "name": "Jasmine Crockett",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1616 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-8885"
+      },
+      "website": "https://crockett.house.gov"
+    },
+    {
+      "district": "TX-31",
+      "name": "John R. Carter",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2208 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3864"
+      },
+      "website": "https://carter.house.gov"
+    },
+    {
+      "district": "TX-32",
+      "name": "Julie Johnson",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "133 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2231"
+      },
+      "website": "https://juliejohnson.house.gov"
+    },
+    {
+      "district": "TX-33",
+      "name": "Marc A. Veasey",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2348 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-9897"
+      },
+      "website": "https://veasey.house.gov"
+    },
+    {
+      "district": "TX-34",
+      "name": "Vicente Gonzalez",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1201 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2531"
+      },
+      "website": "https://gonzalez.house.gov"
+    },
+    {
+      "district": "TX-35",
+      "name": "Greg Casar",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "446 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5645"
+      },
+      "website": "https://casar.house.gov"
+    },
+    {
+      "district": "TX-36",
+      "name": "Brian Babin",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2236 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-1555"
+      },
+      "website": "https://babin.house.gov"
+    },
+    {
+      "district": "TX-37",
+      "name": "Lloyd Doggett",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2307 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4865"
+      },
+      "website": "https://doggett.house.gov"
+    },
+    {
+      "district": "TX-38",
+      "name": "Wesley Hunt",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1520 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5646"
+      },
+      "website": "https://hunt.house.gov"
+    }
+  ]
+}
