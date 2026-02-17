@@ -1,0 +1,310 @@
+{
+  "state": "FL",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Marco Rubio",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "FL",
+      "dc_office": {
+        "address": "284 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3041"
+      },
+      "website": "https://www.rubio.senate.gov/"
+    },
+    {
+      "name": "Rick Scott",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "FL",
+      "dc_office": {
+        "address": "110 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5274"
+      },
+      "website": "https://www.rickscott.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "FL-01",
+      "name": "Matt Gaetz",
+      "party": "Republican",
+      "dc_office": {
+        "address": "223 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4136"
+      },
+      "website": "https://gaetz.house.gov/"
+    },
+    {
+      "district": "FL-02",
+      "name": "Neal Dunn",
+      "party": "Republican",
+      "dc_office": {
+        "address": "372 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5235"
+      },
+      "website": "https://dunn.house.gov/"
+    },
+    {
+      "district": "FL-03",
+      "name": "Kat Cammack",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1620 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5744"
+      },
+      "website": "https://cammack.house.gov/"
+    },
+    {
+      "district": "FL-04",
+      "name": "Aaron Bean",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1139 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-0123"
+      },
+      "website": "https://bean.house.gov/"
+    },
+    {
+      "district": "FL-05",
+      "name": "John Rutherford",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1717 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2501"
+      },
+      "website": "https://rutherford.house.gov/"
+    },
+    {
+      "district": "FL-06",
+      "name": "Michael Waltz",
+      "party": "Republican",
+      "dc_office": {
+        "address": "213 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2706"
+      },
+      "website": "https://waltz.house.gov/"
+    },
+    {
+      "district": "FL-07",
+      "name": "Cory Mills",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2429 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4035"
+      },
+      "website": "https://mills.house.gov/"
+    },
+    {
+      "district": "FL-08",
+      "name": "Bill Posey",
+      "party": "Republican",
+      "dc_office": {
+        "address": "215 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3671"
+      },
+      "website": "https://posey.house.gov/"
+    },
+    {
+      "district": "FL-09",
+      "name": "Darren Soto",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "235 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-9889"
+      },
+      "website": "https://soto.house.gov/"
+    },
+    {
+      "district": "FL-10",
+      "name": "Maxwell Frost",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "2444 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2176"
+      },
+      "website": "https://frost.house.gov/"
+    },
+    {
+      "district": "FL-11",
+      "name": "Daniel Webster",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1210 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-1002"
+      },
+      "website": "https://webster.house.gov/"
+    },
+    {
+      "district": "FL-12",
+      "name": "Gus Bilirakis",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2112 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5755"
+      },
+      "website": "https://bilirakis.house.gov/"
+    },
+    {
+      "district": "FL-13",
+      "name": "Anna Paulina Luna",
+      "party": "Republican",
+      "dc_office": {
+        "address": "101 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5961"
+      },
+      "website": "https://luna.house.gov/"
+    },
+    {
+      "district": "FL-14",
+      "name": "Kathy Castor",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "205 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3376"
+      },
+      "website": "https://castor.house.gov/"
+    },
+    {
+      "district": "FL-15",
+      "name": "Laurel Lee",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1720 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5626"
+      },
+      "website": "https://laurellee.house.gov/"
+    },
+    {
+      "district": "FL-16",
+      "name": "Vern Buchanan",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2427 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5015"
+      },
+      "website": "https://buchanan.house.gov/"
+    },
+    {
+      "district": "FL-17",
+      "name": "Greg Steube",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2450 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5792"
+      },
+      "website": "https://steube.house.gov/"
+    },
+    {
+      "district": "FL-18",
+      "name": "Brian Mast",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2182 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3026"
+      },
+      "website": "https://mast.house.gov/"
+    },
+    {
+      "district": "FL-19",
+      "name": "Byron Donalds",
+      "party": "Republican",
+      "dc_office": {
+        "address": "171 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2536"
+      },
+      "website": "https://donalds.house.gov/"
+    },
+    {
+      "district": "FL-20",
+      "name": "Sheila Cherfilus-McCormick",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "242 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-1313"
+      },
+      "website": "https://cherfilus-mccormick.house.gov/"
+    },
+    {
+      "district": "FL-21",
+      "name": "Lois Frankel",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "250 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-9890"
+      },
+      "website": "https://frankel.house.gov/"
+    },
+    {
+      "district": "FL-22",
+      "name": "Jared Moskowitz",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "1035 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3001"
+      },
+      "website": "https://moskowitz.house.gov/"
+    },
+    {
+      "district": "FL-23",
+      "name": "Debbie Wasserman Schultz",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "270 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-7931"
+      },
+      "website": "https://wassermanschultz.house.gov/"
+    },
+    {
+      "district": "FL-24",
+      "name": "Frederica Wilson",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "208 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4506"
+      },
+      "website": "https://wilson.house.gov/"
+    },
+    {
+      "district": "FL-25",
+      "name": "Mario Díaz-Balart",
+      "party": "Republican",
+      "dc_office": {
+        "address": "404 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4211"
+      },
+      "website": "https://mariodiazbalart.house.gov/"
+    },
+    {
+      "district": "FL-26",
+      "name": "Carlos A. Giménez",
+      "party": "Republican",
+      "dc_office": {
+        "address": "451 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2778"
+      },
+      "website": "https://gimenez.house.gov/"
+    },
+    {
+      "district": "FL-27",
+      "name": "María Elvira Salazar",
+      "party": "Republican",
+      "dc_office": {
+        "address": "216 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3931"
+      },
+      "website": "https://salazar.house.gov/"
+    },
+    {
+      "district": "FL-28",
+      "name": "Vacant",
+      "party": "N/A",
+      "dc_office": {
+        "address": "N/A",
+        "phone": "N/A"
+      },
+      "website": ""
+    }
+  ]
+}
