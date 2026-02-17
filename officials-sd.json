@@ -1,1 +1,40 @@
-
+{
+  "state": "SD",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "John Thune",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "SD",
+      "dc_office": {
+        "address": "511 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2321"
+      },
+      "website": "https://www.thune.senate.gov/"
+    },
+    {
+      "name": "Mike Rounds",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "SD",
+      "dc_office": {
+        "address": "716 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5842"
+      },
+      "website": "https://www.rounds.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "SD-AL",
+      "name": "Dusty Johnson",
+      "party": "Republican",
+      "dc_office": {
+        "address": "171 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2801"
+      },
+      "website": "https://dustyjohnson.house.gov/"
+    }
+  ]
+}
