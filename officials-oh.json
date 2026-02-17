@@ -1,0 +1,207 @@
+{
+  "state": "OH",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "TTD-119 Official Member Telephone Directory (Clerk of the House) – Feb 2, 2026",
+      "OLM-119 Official List of Members (Clerk of the House) – Feb 2, 2026"
+    ],
+    "senate": [
+      "Ohio BOE '2026 Federal Elected Officials' (updated 1/7/2026)",
+      "Senate.gov contact resources"
+    ],
+    "party_reference": [
+      "Ballotpedia Ohio congressional delegation page"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Bernie Moreno",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "OH",
+      "dc_office": {
+        "address": "SR-284 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2315"
+      },
+      "website": "https://www.moreno.senate.gov/",
+      "district_offices": [
+        {
+          "city": "Columbus",
+          "address": "200 N. High St., Room 618, Columbus, OH 43215",
+          "phone": "(614) 469-2083"
+        }
+      ]
+    },
+    {
+      "name": "Jon Husted",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "OH",
+      "dc_office": {
+        "address": "SR-304 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3353"
+      },
+      "website": "https://www.husted.senate.gov/",
+      "district_offices": [
+        {
+          "city": "Columbus",
+          "address": "200 N. High St., Suite 600, Columbus, OH 43215",
+          "phone": "(614) 369-4925"
+        }
+      ]
+    }
+  ],
+  "house": [
+    {
+      "district": "OH-01",
+      "name": "Greg Landsman",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2244 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2216"
+      },
+      "website": "https://landsman.house.gov/"
+    },
+    {
+      "district": "OH-02",
+      "name": "David J. Taylor",
+      "party": "Republican",
+      "dc_office": {
+        "address": "325 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3164"
+      },
+      "website": "https://taylor.house.gov/"
+    },
+    {
+      "district": "OH-03",
+      "name": "Joyce Beatty",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2079 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4324"
+      },
+      "website": "https://beatty.house.gov/"
+    },
+    {
+      "district": "OH-04",
+      "name": "Jim Jordan",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2056 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2676"
+      },
+      "website": "https://jordan.house.gov/"
+    },
+    {
+      "district": "OH-05",
+      "name": "Robert E. Latta",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2470 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6405"
+      },
+      "website": "https://latta.house.gov/"
+    },
+    {
+      "district": "OH-06",
+      "name": "Michael A. Rulli",
+      "party": "Republican",
+      "dc_office": {
+        "address": "421 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5705"
+      },
+      "website": "https://rulli.house.gov/"
+    },
+    {
+      "district": "OH-07",
+      "name": "Max L. Miller",
+      "party": "Republican",
+      "dc_office": {
+        "address": "143 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3876"
+      },
+      "website": "https://maxmiller.house.gov/"
+    },
+    {
+      "district": "OH-08",
+      "name": "Warren Davidson",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2113 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6205"
+      },
+      "website": "https://davidson.house.gov/"
+    },
+    {
+      "district": "OH-09",
+      "name": "Marcy Kaptur",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2314 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4146"
+      },
+      "website": "https://kaptur.house.gov/"
+    },
+    {
+      "district": "OH-10",
+      "name": "Michael R. Turner",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2183 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6465"
+      },
+      "website": "https://turner.house.gov/"
+    },
+    {
+      "district": "OH-11",
+      "name": "Shontel M. Brown",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2455 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-7032"
+      },
+      "website": "https://shontelbrown.house.gov/"
+    },
+    {
+      "district": "OH-12",
+      "name": "Troy Balderson",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2429 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5355"
+      },
+      "website": "https://balderson.house.gov/"
+    },
+    {
+      "district": "OH-13",
+      "name": "Emilia Strong Sykes",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1217 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6265"
+      },
+      "website": "https://sykes.house.gov/"
+    },
+    {
+      "district": "OH-14",
+      "name": "David P. Joyce",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2065 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5731"
+      },
+      "website": "https://joyce.house.gov/"
+    },
+    {
+      "district": "OH-15",
+      "name": "Mike Carey",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1433 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2015"
+      },
+      "website": "https://carey.house.gov/"
+    }
+  ]
+}
