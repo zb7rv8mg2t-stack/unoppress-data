@@ -1,1 +1,90 @@
-
+{
+  "state": "LA",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Bill Cassidy",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "LA",
+      "dc_office": {
+        "address": "520 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5824"
+      },
+      "website": "https://www.cassidy.senate.gov/"
+    },
+    {
+      "name": "John Kennedy",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "LA",
+      "dc_office": {
+        "address": "437 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4623"
+      },
+      "website": "https://www.kennedy.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "LA-01",
+      "name": "Steve Scalise",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2413 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3015"
+      },
+      "website": "https://scalise.house.gov/"
+    },
+    {
+      "district": "LA-02",
+      "name": "Troy Carter",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "442 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6636"
+      },
+      "website": "https://carter.house.gov/"
+    },
+    {
+      "district": "LA-03",
+      "name": "Clay Higgins",
+      "party": "Republican",
+      "dc_office": {
+        "address": "572 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2031"
+      },
+      "website": "https://higgins.house.gov/"
+    },
+    {
+      "district": "LA-04",
+      "name": "Mike Johnson",
+      "party": "Republican",
+      "dc_office": {
+        "address": "568 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2777"
+      },
+      "website": "https://mikejohnson.house.gov/"
+    },
+    {
+      "district": "LA-05",
+      "name": "Julia Letlow",
+      "party": "Republican",
+      "dc_office": {
+        "address": "142 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-8490"
+      },
+      "website": "https://letlow.house.gov/"
+    },
+    {
+      "district": "LA-06",
+      "name": "Garret Graves",
+      "party": "Republican",
+      "dc_office": {
+        "address": "451 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3901"
+      },
+      "website": "https://graves.house.gov/"
+    }
+  ]
+}
