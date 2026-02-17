@@ -1,0 +1,131 @@
+{
+  "state": "MA",
+  "generated_at": "2026-02-16",
+  "sources": {
+    "house": [
+      "Clerk of the U.S. House member profiles (119th Congress contact pages)"
+    ],
+    "senate": [
+      "U.S. Senate Senators' Suite & Telephone List (senate.gov PDF)",
+      "Senators' official office locations pages"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Elizabeth Warren",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "MA",
+      "dc_office": {
+        "address": "311 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4543"
+      },
+      "website": "https://www.warren.senate.gov/",
+      "district_offices_url": "https://www.warren.senate.gov/contact/office-locations"
+    },
+    {
+      "name": "Edward J. Markey",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "MA",
+      "dc_office": {
+        "address": "255 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2742"
+      },
+      "website": "https://www.markey.senate.gov/",
+      "district_offices_url": "https://www.markey.senate.gov/contact"
+    }
+  ],
+  "house": [
+    {
+      "district": "MA-01",
+      "name": "Richard E. Neal",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "372 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5601"
+      },
+      "website": "https://neal.house.gov/"
+    },
+    {
+      "district": "MA-02",
+      "name": "James P. McGovern",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "370 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6101"
+      },
+      "website": "https://mcgovern.house.gov/"
+    },
+    {
+      "district": "MA-03",
+      "name": "Lori Trahan",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2233 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3411"
+      },
+      "website": "https://trahan.house.gov/"
+    },
+    {
+      "district": "MA-04",
+      "name": "Jake Auchincloss",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1524 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5931"
+      },
+      "website": "https://auchincloss.house.gov/"
+    },
+    {
+      "district": "MA-05",
+      "name": "Katherine M. Clark",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2368 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2836"
+      },
+      "website": "https://katherineclark.house.gov/"
+    },
+    {
+      "district": "MA-06",
+      "name": "Seth Moulton",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1126 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-8020"
+      },
+      "website": "https://moulton.house.gov/"
+    },
+    {
+      "district": "MA-07",
+      "name": "Ayanna Pressley",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "402 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5111"
+      },
+      "website": "https://pressley.house.gov/"
+    },
+    {
+      "district": "MA-08",
+      "name": "Stephen F. Lynch",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2109 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-8273"
+      },
+      "website": "https://lynch.house.gov/"
+    },
+    {
+      "district": "MA-09",
+      "name": "William R. Keating",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2372 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3111"
+      },
+      "website": "https://keating.house.gov/"
+    }
+  ]
+}
