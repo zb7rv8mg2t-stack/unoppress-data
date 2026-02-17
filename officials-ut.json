@@ -1,1 +1,70 @@
-
+{
+  "state": "UT",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Mike Lee",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "UT",
+      "dc_office": {
+        "address": "361 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5444"
+      },
+      "website": "https://www.lee.senate.gov/"
+    },
+    {
+      "name": "Mitt Romney",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "UT",
+      "dc_office": {
+        "address": "354 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5251"
+      },
+      "website": "https://www.romney.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "UT-01",
+      "name": "Blake Moore",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1131 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-0453"
+      },
+      "website": "https://blakemoore.house.gov/"
+    },
+    {
+      "district": "UT-02",
+      "name": "Chris Stewart",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2202 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-9730"
+      },
+      "website": "https://stewart.house.gov/"
+    },
+    {
+      "district": "UT-03",
+      "name": "John Curtis",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2417 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-7751"
+      },
+      "website": "https://curtis.house.gov/"
+    },
+    {
+      "district": "UT-04",
+      "name": "Burgess Owens",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1516 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3011"
+      },
+      "website": "https://owens.house.gov/"
+    }
+  ]
+}
