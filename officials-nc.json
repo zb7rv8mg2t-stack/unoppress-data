@@ -1,0 +1,163 @@
+{
+  "state": "NC",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "Clerk of the House — TTD-119 Official Member Telephone Directory"
+    ],
+    "senate": [
+      "Clerk of the House — TTD-119 Senate list section",
+      "U.S. Senate — Senators Suite & Telephone List (119th Congress)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Thom Tillis",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "NC",
+      "dc_office": {
+        "address": "113 Dirksen Senate Office Building (SD-113), Washington, DC 20510",
+        "phone": "(202) 224-6342"
+      }
+    },
+    {
+      "name": "Ted Budd",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "NC",
+      "dc_office": {
+        "address": "354 Russell Senate Office Building (SR-354), Washington, DC 20510",
+        "phone": "(202) 224-3154"
+      }
+    }
+  ],
+  "house": [
+    {
+      "district": "NC-01",
+      "name": "Donald G. Davis",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1123 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3101"
+      }
+    },
+    {
+      "district": "NC-02",
+      "name": "Deborah K. Ross",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1221 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3032"
+      }
+    },
+    {
+      "district": "NC-03",
+      "name": "Gregory F. Murphy",
+      "party": "Republican",
+      "dc_office": {
+        "address": "407 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3415"
+      }
+    },
+    {
+      "district": "NC-04",
+      "name": "Valerie P. Foushee",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2452 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-1784"
+      }
+    },
+    {
+      "district": "NC-05",
+      "name": "Virginia Foxx",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2462 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2071"
+      }
+    },
+    {
+      "district": "NC-06",
+      "name": "Addison P. McDowell",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1032 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3065"
+      }
+    },
+    {
+      "district": "NC-07",
+      "name": "David Rouzer",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2333 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2731"
+      }
+    },
+    {
+      "district": "NC-08",
+      "name": "Mark Harris",
+      "party": "Republican",
+      "dc_office": {
+        "address": "126 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-1976"
+      }
+    },
+    {
+      "district": "NC-09",
+      "name": "Richard Hudson",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2112 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3715"
+      }
+    },
+    {
+      "district": "NC-10",
+      "name": "Pat Harrigan",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1233 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2576"
+      }
+    },
+    {
+      "district": "NC-11",
+      "name": "Chuck Edwards",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1505 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6401"
+      }
+    },
+    {
+      "district": "NC-12",
+      "name": "Alma S. Adams",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2436 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-1510"
+      }
+    },
+    {
+      "district": "NC-13",
+      "name": "Brad Knott",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1239 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4531"
+      }
+    },
+    {
+      "district": "NC-14",
+      "name": "Tim Moore",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1424 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5634"
+      }
+    }
+  ]
+}
