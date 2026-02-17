@@ -1,0 +1,53 @@
+{
+  "state": "VT",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "senate": [
+      "U.S. Senate official suite & telephone directory",
+      "Congress.gov member profiles"
+    ],
+    "house": [
+      "Clerk of the House official member directory",
+      "Official House member contact pages"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Bernard Sanders",
+      "party": "Independent",
+      "chamber": "Senate",
+      "state": "VT",
+      "dc_office": {
+        "address": "332 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5141"
+      },
+      "website": "https://www.sanders.senate.gov/",
+      "district_offices_url": "https://www.sanders.senate.gov/contact/"
+    },
+    {
+      "name": "Peter Welch",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "VT",
+      "dc_office": {
+        "address": "124 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4242"
+      },
+      "website": "https://www.welch.senate.gov/",
+      "district_offices_url": "https://www.welch.senate.gov/contact/"
+    }
+  ],
+  "house": [
+    {
+      "district": "VT-AL",
+      "name": "Becca Balint",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1227 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4115"
+      },
+      "website": "https://balint.house.gov/",
+      "district_offices_url": "https://balint.house.gov/contact/offices"
+    }
+  ]
+}
