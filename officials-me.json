@@ -1,0 +1,59 @@
+{
+  "state": "ME",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "senate": [
+      "Sen. Susan Collins official site (DC office + phone)",
+      "Sen. Angus King official office locations (DC office + phone)"
+    ],
+    "house": [
+      "Clerk of the House member contact pages (DC office + phone)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Susan M. Collins",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "ME",
+      "dc_office": {
+        "address": "413 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2523"
+      },
+      "website": "https://www.collins.senate.gov/"
+    },
+    {
+      "name": "Angus S. King, Jr.",
+      "party": "Independent",
+      "chamber": "Senate",
+      "state": "ME",
+      "dc_office": {
+        "address": "133 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5344"
+      },
+      "website": "https://www.king.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "ME-01",
+      "name": "Chellie Pingree",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2354 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6116"
+      },
+      "website": "https://pingree.house.gov/"
+    },
+    {
+      "district": "ME-02",
+      "name": "Jared F. Golden",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1107 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6306"
+      },
+      "website": "https://golden.house.gov/"
+    }
+  ]
+}
