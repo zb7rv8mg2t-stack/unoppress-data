@@ -1,0 +1,120 @@
+{
+  "state": "CO",
+  "generated_at": "2026-02-16",
+  "sources": {
+    "house": [
+      "TTD-119 Official Member Telephone Directory (Clerk of the House) — Feb 2, 2026",
+      "Official House member websites (house.gov)"
+    ],
+    "senate": [
+      "U.S. Senate Senators' Suite & Telephone List (senate.gov PDF)",
+      "Official Senate member websites (senate.gov)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Michael F. Bennet",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "CO",
+      "dc_office": {
+        "address": "SR-261 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5852"
+      },
+      "website": "https://www.bennet.senate.gov/"
+    },
+    {
+      "name": "John W. Hickenlooper",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "CO",
+      "dc_office": {
+        "address": "SH-374 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5941"
+      },
+      "website": "https://www.hickenlooper.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "CO-01",
+      "name": "Diana DeGette",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2111 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4431"
+      },
+      "website": "https://degette.house.gov/"
+    },
+    {
+      "district": "CO-02",
+      "name": "Joe Neguse",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2400 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2161"
+      },
+      "website": "https://neguse.house.gov/"
+    },
+    {
+      "district": "CO-03",
+      "name": "Jeff Hurd",
+      "party": "Republican",
+      "dc_office": {
+        "address": "162 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4761"
+      },
+      "website": "https://hurd.house.gov/"
+    },
+    {
+      "district": "CO-04",
+      "name": "Lauren Boebert",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1217 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4676"
+      },
+      "website": "https://boebert.house.gov/"
+    },
+    {
+      "district": "CO-05",
+      "name": "Doug Lamborn",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2402 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4422"
+      },
+      "website": "https://lamborn.house.gov/"
+    },
+    {
+      "district": "CO-06",
+      "name": "Jason Crow",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1320 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-7882"
+      },
+      "website": "https://crow.house.gov/"
+    },
+    {
+      "district": "CO-07",
+      "name": "Brittany Pettersen",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "216 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2645"
+      },
+      "website": "https://pettersen.house.gov/"
+    },
+    {
+      "district": "CO-08",
+      "name": "Gabe Evans",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1237 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4676"
+      },
+      "website": "https://evans.house.gov/"
+    }
+  ]
+}
