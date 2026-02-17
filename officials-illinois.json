@@ -1,0 +1,236 @@
+{
+  "generated_at": "2026-02-16",
+  "source_notes": {
+    "house_directory": "https://www.house.gov/representatives",
+    "senate_phone_pdf": "https://www.senate.gov/general/resources/pdf/senators_phone_list.pdf"
+  },
+  "officials": [
+    {
+      "id": "US-S-IL-01",
+      "name": "Richard J. Durbin",
+      "chamber": "Senate",
+      "state": "IL",
+      "district": null,
+      "party": "D",
+      "website": "https://www.durbin.senate.gov/",
+      "dc_office": "SH-711 (Hart Senate Office Building)",
+      "dc_phone": "(202) 224-2152"
+    },
+    {
+      "id": "US-S-IL-02",
+      "name": "Tammy Duckworth",
+      "chamber": "Senate",
+      "state": "IL",
+      "district": null,
+      "party": "D",
+      "website": "https://www.duckworth.senate.gov/",
+      "dc_office": "SH-524 (Hart Senate Office Building)",
+      "dc_phone": "(202) 224-2854"
+    },
+
+    {
+      "id": "US-H-IL-01",
+      "name": "Jonathan L. Jackson",
+      "chamber": "House",
+      "state": "IL",
+      "district": "1",
+      "party": "D",
+      "website": "https://jonathanjackson.house.gov",
+      "dc_office_room": "1632 LHOB",
+      "dc_phone": "(202) 225-4372",
+      "committees": ["Agriculture", "Foreign Affairs"]
+    },
+    {
+      "id": "US-H-IL-02",
+      "name": "Robin L. Kelly",
+      "chamber": "House",
+      "state": "IL",
+      "district": "2",
+      "party": "D",
+      "website": "https://robinkelly.house.gov",
+      "dc_office_room": "2329 RHOB",
+      "dc_phone": "(202) 225-0773",
+      "committees": ["Energy and Commerce"]
+    },
+    {
+      "id": "US-H-IL-03",
+      "name": "Delia C. Ramirez",
+      "chamber": "House",
+      "state": "IL",
+      "district": "3",
+      "party": "D",
+      "website": "https://ramirez.house.gov",
+      "dc_office_room": "1523 LHOB",
+      "dc_phone": "(202) 225-5701",
+      "committees": ["Homeland Security", "Veterans' Affairs"]
+    },
+    {
+      "id": "US-H-IL-04",
+      "name": "Jesús G. “Chuy” García",
+      "chamber": "House",
+      "state": "IL",
+      "district": "4",
+      "party": "D",
+      "website": "https://chuygarcia.house.gov",
+      "dc_office_room": "2334 RHOB",
+      "dc_phone": "(202) 225-8203",
+      "committees": ["Judiciary", "Transportation and Infrastructure"]
+    },
+    {
+      "id": "US-H-IL-05",
+      "name": "Mike Quigley",
+      "chamber": "House",
+      "state": "IL",
+      "district": "5",
+      "party": "D",
+      "website": "https://quigley.house.gov",
+      "dc_office_room": "2083 RHOB",
+      "dc_phone": "(202) 225-4061",
+      "committees": ["Appropriations", "Intelligence"]
+    },
+    {
+      "id": "US-H-IL-06",
+      "name": "Sean Casten",
+      "chamber": "House",
+      "state": "IL",
+      "district": "6",
+      "party": "D",
+      "website": "https://casten.house.gov",
+      "dc_office_room": "2440 RHOB",
+      "dc_phone": "(202) 225-4561",
+      "committees": ["Financial Services"]
+    },
+    {
+      "id": "US-H-IL-07",
+      "name": "Danny K. Davis",
+      "chamber": "House",
+      "state": "IL",
+      "district": "7",
+      "party": "D",
+      "website": "https://davis.house.gov",
+      "dc_office_room": "2159 RHOB",
+      "dc_phone": "(202) 225-5006",
+      "committees": ["Ways and Means"]
+    },
+    {
+      "id": "US-H-IL-08",
+      "name": "Raja Krishnamoorthi",
+      "chamber": "House",
+      "state": "IL",
+      "district": "8",
+      "party": "D",
+      "website": "https://krishnamoorthi.house.gov",
+      "dc_office_room": "2367 RHOB",
+      "dc_phone": "(202) 225-3711",
+      "committees": ["Oversight and Government Reform", "Intelligence", "Select Comm on the Strategic Competition US and China"]
+    },
+    {
+      "id": "US-H-IL-09",
+      "name": "Janice D. Schakowsky",
+      "chamber": "House",
+      "state": "IL",
+      "district": "9",
+      "party": "D",
+      "website": "https://schakowsky.house.gov",
+      "dc_office_room": "2408 RHOB",
+      "dc_phone": "(202) 225-2111",
+      "committees": ["Energy and Commerce"]
+    },
+    {
+      "id": "US-H-IL-10",
+      "name": "Bradley Schneider",
+      "chamber": "House",
+      "state": "IL",
+      "district": "10",
+      "party": "D",
+      "website": "https://schneider.house.gov",
+      "dc_office_room": "300 CHOB",
+      "dc_phone": "(202) 225-4835",
+      "committees": ["Foreign Affairs", "Ways and Means"]
+    },
+    {
+      "id": "US-H-IL-11",
+      "name": "Bill Foster",
+      "chamber": "House",
+      "state": "IL",
+      "district": "11",
+      "party": "D",
+      "website": "https://foster.house.gov",
+      "dc_office_room": "2366 RHOB",
+      "dc_phone": "(202) 225-3515",
+      "committees": ["Financial Services", "Science, Space, and Technology"]
+    },
+    {
+      "id": "US-H-IL-12",
+      "name": "Mike Bost",
+      "chamber": "House",
+      "state": "IL",
+      "district": "12",
+      "party": "R",
+      "website": "https://bost.house.gov",
+      "dc_office_room": "352 CHOB",
+      "dc_phone": "(202) 225-5661",
+      "committees": ["Agriculture", "Transportation and Infrastructure", "Veterans' Affairs"]
+    },
+    {
+      "id": "US-H-IL-13",
+      "name": "Nikki Budzinski",
+      "chamber": "House",
+      "state": "IL",
+      "district": "13",
+      "party": "D",
+      "website": "https://budzinski.house.gov",
+      "dc_office_room": "1717 LHOB",
+      "dc_phone": "(202) 225-2371",
+      "committees": ["Agriculture", "Veterans' Affairs"]
+    },
+    {
+      "id": "US-H-IL-14",
+      "name": "Lauren Underwood",
+      "chamber": "House",
+      "state": "IL",
+      "district": "14",
+      "party": "D",
+      "website": "https://underwood.house.gov",
+      "dc_office_room": "2228 RHOB",
+      "dc_phone": "(202) 225-2976",
+      "committees": ["Appropriations"]
+    },
+    {
+      "id": "US-H-IL-15",
+      "name": "Mary E. Miller",
+      "chamber": "House",
+      "state": "IL",
+      "district": "15",
+      "party": "R",
+      "website": "https://marymiller.house.gov",
+      "dc_office_room": "1740 LHOB",
+      "dc_phone": "(202) 225-5271",
+      "committees": ["Agriculture", "Education and Workforce", "House Administration"]
+    },
+    {
+      "id": "US-H-IL-16",
+      "name": "Darin LaHood",
+      "chamber": "House",
+      "state": "IL",
+      "district": "16",
+      "party": "R",
+      "website": "https://lahood.house.gov",
+      "dc_office_room": "503 CHOB",
+      "dc_phone": "(202) 225-6201",
+      "committees": ["Intelligence", "Ways and Means", "Select Comm on the Strategic Competition US and China"]
+    },
+    {
+      "id": "US-H-IL-17",
+      "name": "Eric Sorensen",
+      "chamber": "House",
+      "state": "IL",
+      "district": "17",
+      "party": "D",
+      "website": "https://sorensen.house.gov",
+      "dc_office_room": "1314 LHOB",
+      "dc_phone": "(202) 225-5905",
+      "committees": ["Agriculture", "Armed Services"]
+    }
+  ]
+}
