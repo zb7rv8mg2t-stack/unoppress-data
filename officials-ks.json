@@ -1,1 +1,70 @@
-
+{
+  "state": "KS",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Jerry Moran",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "KS",
+      "dc_office": {
+        "address": "521 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6521"
+      },
+      "website": "https://www.moran.senate.gov/"
+    },
+    {
+      "name": "Roger Marshall",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "KS",
+      "dc_office": {
+        "address": "479A Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4774"
+      },
+      "website": "https://www.marshall.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "KS-01",
+      "name": "Tracey Mann",
+      "party": "Republican",
+      "dc_office": {
+        "address": "521 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2715"
+      },
+      "website": "https://mann.house.gov/"
+    },
+    {
+      "district": "KS-02",
+      "name": "Jake LaTurner",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2459 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6601"
+      },
+      "website": "https://laturner.house.gov/"
+    },
+    {
+      "district": "KS-03",
+      "name": "Sharice Davids",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "2435 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2865"
+      },
+      "website": "https://davids.house.gov/"
+    },
+    {
+      "district": "KS-04",
+      "name": "Ron Estes",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2232 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6216"
+      },
+      "website": "https://estes.house.gov/"
+    }
+  ]
+}
