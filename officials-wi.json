@@ -1,0 +1,122 @@
+{
+  "state": "WI",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "TTD-119 Official Member Telephone Directory (Clerk of the House) — Feb 2, 2026",
+      "OLM-119 (Clerk of the House) roster list",
+      "Official House member websites (house.gov / clerk.house.gov profiles)"
+    ],
+    "senate": [
+      "TTD-119 Official Member Telephone Directory — Feb 2, 2026",
+      "OLM-119 Senators by state list",
+      "Official Senate member websites (senate.gov / congress.gov profiles)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Ron Johnson",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "WI",
+      "dc_office": {
+        "address": "328 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5323"
+      },
+      "website": "https://www.ronjohnson.senate.gov/"
+    },
+    {
+      "name": "Tammy Baldwin",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "WI",
+      "dc_office": {
+        "address": "141 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5653"
+      },
+      "website": "https://www.baldwin.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "WI-01",
+      "name": "Bryan Steil",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1526 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3031"
+      },
+      "website": "https://steil.house.gov/"
+    },
+    {
+      "district": "WI-02",
+      "name": "Mark Pocan",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1026 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2906"
+      },
+      "website": "https://pocan.house.gov/"
+    },
+    {
+      "district": "WI-03",
+      "name": "Derrick Van Orden",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1513 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5506"
+      },
+      "website": "https://vanorden.house.gov/"
+    },
+    {
+      "district": "WI-04",
+      "name": "Gwen Moore",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2252 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4572"
+      },
+      "website": "https://gwenmoore.house.gov/"
+    },
+    {
+      "district": "WI-05",
+      "name": "Scott Fitzgerald",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2444 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5101"
+      },
+      "website": "https://fitzgerald.house.gov/"
+    },
+    {
+      "district": "WI-06",
+      "name": "Glenn Grothman",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1211 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2476"
+      },
+      "website": "https://grothman.house.gov/"
+    },
+    {
+      "district": "WI-07",
+      "name": "Thomas P. Tiffany",
+      "party": "Republican",
+      "dc_office": {
+        "address": "451 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3365"
+      },
+      "website": "https://tiffany.house.gov/"
+    },
+    {
+      "district": "WI-08",
+      "name": "Tony Wied",
+      "party": "Republican",
+      "dc_office": {
+        "address": "424 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5665"
+      },
+      "website": "https://wied.house.gov/"
+    }
+  ]
+}
