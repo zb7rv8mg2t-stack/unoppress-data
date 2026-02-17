@@ -1,1 +1,50 @@
-
+{
+  "state": "MT",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Jon Tester",
+      "party": "Democrat",
+      "chamber": "Senate",
+      "state": "MT",
+      "dc_office": {
+        "address": "311 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2644"
+      },
+      "website": "https://www.tester.senate.gov/"
+    },
+    {
+      "name": "Steve Daines",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "MT",
+      "dc_office": {
+        "address": "320 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2651"
+      },
+      "website": "https://www.daines.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "MT-01",
+      "name": "Ryan Zinke",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1524 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5628"
+      },
+      "website": "https://zinke.house.gov/"
+    },
+    {
+      "district": "MT-02",
+      "name": "Matt Rosendale",
+      "party": "Republican",
+      "dc_office": {
+        "address": "405 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3211"
+      },
+      "website": "https://rosendale.house.gov/"
+    }
+  ]
+}
