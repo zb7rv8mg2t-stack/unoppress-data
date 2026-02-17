@@ -1,0 +1,108 @@
+{
+  "state": "OR",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "house": [
+      "Clerk of the House member profiles (contact + phone)",
+      "House member official office-locations pages"
+    ],
+    "senate": [
+      "U.S. Senate directory (room + phone extension → DC phone)",
+      "Senators' official office-locations pages"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Ron Wyden",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "OR",
+      "dc_office": {
+        "address": "221 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5244"
+      },
+      "website": "https://www.wyden.senate.gov/",
+      "district_offices_url": "https://www.wyden.senate.gov/contact/office-locations"
+    },
+    {
+      "name": "Jeff Merkley",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "OR",
+      "dc_office": {
+        "address": "531 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3753"
+      },
+      "website": "https://www.merkley.senate.gov/",
+      "district_offices_url": "https://www.merkley.senate.gov/connect/office-locations/"
+    }
+  ],
+  "house": [
+    {
+      "district": "OR-01",
+      "name": "Suzanne Bonamici",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2231 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-0855"
+      },
+      "website": "https://bonamici.house.gov/",
+      "district_offices_url": "https://bonamici.house.gov/contact/offices"
+    },
+    {
+      "district": "OR-02",
+      "name": "Cliff Bentz",
+      "party": "Republican",
+      "dc_office": {
+        "address": "409 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6730"
+      },
+      "website": "https://bentz.house.gov/",
+      "district_offices_url": "https://bentz.house.gov/contact/offices"
+    },
+    {
+      "district": "OR-03",
+      "name": "Maxine Dexter",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1207 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4811"
+      },
+      "website": "https://dexter.house.gov/",
+      "district_offices_url": "https://dexter.house.gov/contact/office-locations"
+    },
+    {
+      "district": "OR-04",
+      "name": "Val T. Hoyle",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1620 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6416"
+      },
+      "website": "https://hoyle.house.gov/",
+      "district_offices_url": "https://hoyle.house.gov/contact/offices"
+    },
+    {
+      "district": "OR-05",
+      "name": "Janelle S. Bynum",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1508 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5711"
+      },
+      "website": "https://bynum.house.gov/",
+      "district_offices_url": "https://bynum.house.gov/contact/office-locations"
+    },
+    {
+      "district": "OR-06",
+      "name": "Andrea Salinas",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "403 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5643"
+      },
+      "website": "https://salinas.house.gov/",
+      "district_offices_url": "https://salinas.house.gov/contact/offices"
+    }
+  ]
+}
