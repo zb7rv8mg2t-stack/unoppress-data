@@ -1,1 +1,40 @@
-
+{
+  "state": "WY",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "John Barrasso",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "WY",
+      "dc_office": {
+        "address": "307 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6441"
+      },
+      "website": "https://www.barrasso.senate.gov/"
+    },
+    {
+      "name": "Cynthia Lummis",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "WY",
+      "dc_office": {
+        "address": "127A Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3424"
+      },
+      "website": "https://www.lummis.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "WY-AL",
+      "name": "Harriet Hageman",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1708 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2311"
+      },
+      "website": "https://hageman.house.gov/"
+    }
+  ]
+}
