@@ -1,1 +1,50 @@
-
+{
+  "state": "ID",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Mike Crapo",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "ID",
+      "dc_office": {
+        "address": "239 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6142"
+      },
+      "website": "https://www.crapo.senate.gov/"
+    },
+    {
+      "name": "Jim Risch",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "ID",
+      "dc_office": {
+        "address": "483 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2752"
+      },
+      "website": "https://www.risch.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "ID-01",
+      "name": "Russ Fulcher",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1520 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6611"
+      },
+      "website": "https://fulcher.house.gov/"
+    },
+    {
+      "district": "ID-02",
+      "name": "Mike Simpson",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2084 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5531"
+      },
+      "website": "https://simpson.house.gov/"
+    }
+  ]
+}
