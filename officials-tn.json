@@ -1,1 +1,120 @@
-
+{
+  "state": "TN",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Marsha Blackburn",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "TN",
+      "dc_office": {
+        "address": "357 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3344"
+      },
+      "website": "https://www.blackburn.senate.gov/"
+    },
+    {
+      "name": "Bill Hagerty",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "TN",
+      "dc_office": {
+        "address": "248 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4944"
+      },
+      "website": "https://www.hagerty.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "TN-01",
+      "name": "Diana Harshbarger",
+      "party": "Republican",
+      "dc_office": {
+        "address": "167 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6356"
+      },
+      "website": "https://harshbarger.house.gov/"
+    },
+    {
+      "district": "TN-02",
+      "name": "Tim Burchett",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1122 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5435"
+      },
+      "website": "https://burchett.house.gov/"
+    },
+    {
+      "district": "TN-03",
+      "name": "Chuck Fleischmann",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2187 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3271"
+      },
+      "website": "https://fleischmann.house.gov/"
+    },
+    {
+      "district": "TN-04",
+      "name": "Scott DesJarlais",
+      "party": "Republican",
+      "dc_office": {
+        "address": "230 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-6831"
+      },
+      "website": "https://desjarlais.house.gov/"
+    },
+    {
+      "district": "TN-05",
+      "name": "Andy Ogles",
+      "party": "Republican",
+      "dc_office": {
+        "address": "172 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4311"
+      },
+      "website": "https://ogles.house.gov/"
+    },
+    {
+      "district": "TN-06",
+      "name": "John Rose",
+      "party": "Republican",
+      "dc_office": {
+        "address": "357 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4231"
+      },
+      "website": "https://johnrose.house.gov/"
+    },
+    {
+      "district": "TN-07",
+      "name": "Mark Green",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2436 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2811"
+      },
+      "website": "https://markgreen.house.gov/"
+    },
+    {
+      "district": "TN-08",
+      "name": "David Kustoff",
+      "party": "Republican",
+      "dc_office": {
+        "address": "422 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4714"
+      },
+      "website": "https://kustoff.house.gov/"
+    },
+    {
+      "district": "TN-09",
+      "name": "Steve Cohen",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "2104 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3265"
+      },
+      "website": "https://cohen.house.gov/"
+    }
+  ]
+}
