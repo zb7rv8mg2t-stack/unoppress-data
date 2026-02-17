@@ -1,0 +1,166 @@
+{
+  "generated_at": "2026-02-16",
+  "source_notes": {
+    "house_clerk_directory_pdf": "https://clerk.house.gov/member_info/TTD-119.pdf",
+    "senate_contacts": "https://www.senate.gov/senators/senators-contact.htm"
+  },
+  "officials": [
+    {
+      "id": "US-S-NJ-01",
+      "name": "Cory A. Booker",
+      "chamber": "Senate",
+      "state": "NJ",
+      "district": null,
+      "party": "D",
+      "website": "https://www.booker.senate.gov/",
+      "dc_office": "SH-306 (Hart Senate Office Building)",
+      "dc_phone": "(202) 224-3224"
+    },
+    {
+      "id": "US-S-NJ-02",
+      "name": "Andy Kim",
+      "chamber": "Senate",
+      "state": "NJ",
+      "district": null,
+      "party": "D",
+      "website": "https://www.kim.senate.gov/",
+      "dc_office": "SH-520 (Hart Senate Office Building)",
+      "dc_phone": "(202) 224-4744"
+    },
+
+    {
+      "id": "US-H-NJ-01",
+      "name": "Donald Norcross",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "1",
+      "party": "D",
+      "website": "https://norcross.house.gov",
+      "dc_office_room": "2427 RHOB",
+      "dc_phone": "(202) 225-6501"
+    },
+    {
+      "id": "US-H-NJ-02",
+      "name": "Jefferson Van Drew",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "2",
+      "party": "R",
+      "website": "https://vandrew.house.gov",
+      "dc_office_room": "2447 RHOB",
+      "dc_phone": "(202) 225-6572"
+    },
+    {
+      "id": "US-H-NJ-03",
+      "name": "Herbert C. Conaway, Jr.",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "3",
+      "party": "D",
+      "website": "https://conaway.house.gov",
+      "dc_office_room": "1022 LHOB",
+      "dc_phone": "(202) 225-4765"
+    },
+    {
+      "id": "US-H-NJ-04",
+      "name": "Christopher H. Smith",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "4",
+      "party": "R",
+      "website": "https://chrissmith.house.gov",
+      "dc_office_room": "2373 RHOB",
+      "dc_phone": "(202) 225-3765"
+    },
+    {
+      "id": "US-H-NJ-05",
+      "name": "Josh Gottheimer",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "5",
+      "party": "D",
+      "website": "https://gottheimer.house.gov",
+      "dc_office_room": "106 CHOB",
+      "dc_phone": "(202) 225-4465"
+    },
+    {
+      "id": "US-H-NJ-06",
+      "name": "Frank Pallone, Jr.",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "6",
+      "party": "D",
+      "website": "https://pallone.house.gov",
+      "dc_office_room": "2107 RHOB",
+      "dc_phone": "(202) 225-4671"
+    },
+    {
+      "id": "US-H-NJ-07",
+      "name": "Thomas H. Kean, Jr.",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "7",
+      "party": "R",
+      "website": "https://kean.house.gov",
+      "dc_office_room": "251 CHOB",
+      "dc_phone": "(202) 225-5361"
+    },
+    {
+      "id": "US-H-NJ-08",
+      "name": "Robert Menendez",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "8",
+      "party": "D",
+      "website": "https://menendez.house.gov",
+      "dc_office_room": "2453 RHOB",
+      "dc_phone": "(202) 225-7919"
+    },
+    {
+      "id": "US-H-NJ-09",
+      "name": "Nellie Pou",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "9",
+      "party": "D",
+      "website": "https://pou.house.gov",
+      "dc_office_room": "1007 LHOB",
+      "dc_phone": "(202) 225-5751"
+    },
+    {
+      "id": "US-H-NJ-10",
+      "name": "LaMonica McIver",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "10",
+      "party": "D",
+      "website": "https://mciver.house.gov",
+      "dc_office_room": "426 CHOB",
+      "dc_phone": "(202) 225-3436"
+    },
+    {
+      "id": "US-H-NJ-11",
+      "name": "VACANT (NJ-11)",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "11",
+      "party": null,
+      "website": null,
+      "dc_office_room": "1427 LHOB",
+      "dc_phone": "(202) 225-5034",
+      "status": "vacant",
+      "notes": "Seat vacant after Rep. Mikie Sherrill resigned on 2025-11-20; office administered by Clerk pending special election."
+    },
+    {
+      "id": "US-H-NJ-12",
+      "name": "Bonnie Watson Coleman",
+      "chamber": "House",
+      "state": "NJ",
+      "district": "12",
+      "party": "D",
+      "website": "https://watsoncoleman.house.gov",
+      "dc_office_room": "168 CHOB",
+      "dc_phone": "(202) 225-5801"
+    }
+  ]
+}
