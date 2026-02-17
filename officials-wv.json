@@ -1,1 +1,50 @@
-
+{
+  "state": "WV",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Joe Manchin",
+      "party": "Democrat",
+      "chamber": "Senate",
+      "state": "WV",
+      "dc_office": {
+        "address": "306 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3954"
+      },
+      "website": "https://www.manchin.senate.gov/"
+    },
+    {
+      "name": "Shelley Moore Capito",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "WV",
+      "dc_office": {
+        "address": "172 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6472"
+      },
+      "website": "https://www.capito.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "WV-01",
+      "name": "Carol Miller",
+      "party": "Republican",
+      "dc_office": {
+        "address": "174 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3452"
+      },
+      "website": "https://miller.house.gov/"
+    },
+    {
+      "district": "WV-02",
+      "name": "Alex Mooney",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2228 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2711"
+      },
+      "website": "https://mooney.house.gov/"
+    }
+  ]
+}
