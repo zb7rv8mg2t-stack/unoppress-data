@@ -1,1 +1,40 @@
-
+{
+  "state": "AK",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Lisa Murkowski",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "AK",
+      "dc_office": {
+        "address": "522 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6665"
+      },
+      "website": "https://www.murkowski.senate.gov/"
+    },
+    {
+      "name": "Dan Sullivan",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "AK",
+      "dc_office": {
+        "address": "702 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-3004"
+      },
+      "website": "https://www.sullivan.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "AK-AL",
+      "name": "Mary Sattler Peltola",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "1517 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5765"
+      },
+      "website": "https://peltola.house.gov/"
+    }
+  ]
+}
