@@ -1,0 +1,121 @@
+{
+  "state": "MD",
+  "generated_at": "2026-02-16",
+  "sources": {
+    "house": [
+      "TTD-119 Official Member Telephone Directory (Clerk of the House) — Feb 2, 2026",
+      "Official House member websites (house.gov)"
+    ],
+    "senate": [
+      "TTD-119 directory Senate suite/phone list — Feb 2, 2026",
+      "Official Senate member websites (senate.gov)",
+      "Congress.gov member profiles (for confirmation)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Angela D. Alsobrooks",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "MD",
+      "dc_office": {
+        "address": "SR-374 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4524"
+      },
+      "website": "https://www.alsobrooks.senate.gov/"
+    },
+    {
+      "name": "Chris Van Hollen",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "MD",
+      "dc_office": {
+        "address": "SH-730 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4654"
+      },
+      "website": "https://www.vanhollen.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "MD-01",
+      "name": "Andy Harris",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1536 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5311"
+      },
+      "website": "https://harris.house.gov/"
+    },
+    {
+      "district": "MD-02",
+      "name": "Johnny Olszewski, Jr.",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1339 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3061"
+      },
+      "website": "https://olszewski.house.gov/"
+    },
+    {
+      "district": "MD-03",
+      "name": "Sarah Elfreth",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1213 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4016"
+      },
+      "website": "https://elfreth.house.gov/"
+    },
+    {
+      "district": "MD-04",
+      "name": "Glenn Ivey",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1610 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-8699"
+      },
+      "website": "https://ivey.house.gov/"
+    },
+    {
+      "district": "MD-05",
+      "name": "Steny H. Hoyer",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1705 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4131"
+      },
+      "website": "https://hoyer.house.gov/"
+    },
+    {
+      "district": "MD-06",
+      "name": "April McClain Delaney",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1130 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2721"
+      },
+      "website": "https://mcclaindelaney.house.gov/"
+    },
+    {
+      "district": "MD-07",
+      "name": "Kweisi Mfume",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2263 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4741"
+      },
+      "website": "https://mfume.house.gov/"
+    },
+    {
+      "district": "MD-08",
+      "name": "Jamie Raskin",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2242 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5341"
+      },
+      "website": "https://raskin.house.gov/"
+    }
+  ]
+}
