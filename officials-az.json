@@ -1,15 +1,6 @@
 {
   "state": "AZ",
   "generated_at": "2026-02-17",
-  "sources": {
-    "senate": [
-      "U.S. Senate official member sites (DC office + phone)",
-      "Congress.gov member profiles (confirmation)"
-    ],
-    "house": [
-      "Clerk of the House member pages / official House member sites (DC office + phone)"
-    ]
-  },
   "senators": [
     {
       "name": "Mark Kelly",
@@ -20,18 +11,18 @@
         "address": "516 Hart Senate Office Building, Washington, DC 20510",
         "phone": "(202) 224-2235"
       },
-      "website": "https://www.kelly.senate.gov/"
+      "website": "https://www.kelly.senate.gov"
     },
     {
-      "name": "Ruben Gallego",
-      "party": "Democratic",
+      "name": "Kyrsten Sinema",
+      "party": "Independent",
       "chamber": "Senate",
       "state": "AZ",
       "dc_office": {
-        "address": "B40C Dirksen Senate Office Building, Washington, DC 20510",
+        "address": "317 Hart Senate Office Building, Washington, DC 20510",
         "phone": "(202) 224-4521"
       },
-      "website": "https://www.gallego.senate.gov/"
+      "website": "https://www.sinema.senate.gov"
     }
   ],
   "house": [
@@ -40,40 +31,40 @@
       "name": "David Schweikert",
       "party": "Republican",
       "dc_office": {
-        "address": "1529 Longworth House Office Building, Washington, DC 20515",
+        "address": "1526 Longworth House Office Building, Washington, DC 20515",
         "phone": "(202) 225-2190"
       },
-      "website": "https://schweikert.house.gov/"
+      "website": "https://schweikert.house.gov"
     },
     {
       "district": "AZ-02",
       "name": "Eli Crane",
       "party": "Republican",
       "dc_office": {
-        "address": "455 Cannon House Office Building, Washington, DC 20515",
+        "address": "122 Cannon House Office Building, Washington, DC 20515",
         "phone": "(202) 225-3361"
       },
-      "website": "https://crane.house.gov/"
+      "website": "https://crane.house.gov"
     },
     {
       "district": "AZ-03",
-      "name": "Yassamin Ansari",
+      "name": "Raúl M. Grijalva",
       "party": "Democratic",
       "dc_office": {
-        "address": "1320 Longworth House Office Building, Washington, DC 20515",
-        "phone": "(202) 225-4065"
+        "address": "1511 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2435"
       },
-      "website": "https://ansari.house.gov/"
+      "website": "https://grijalva.house.gov"
     },
     {
       "district": "AZ-04",
-      "name": "Paul Gosar",
-      "party": "Republican",
+      "name": "Greg Stanton",
+      "party": "Democratic",
       "dc_office": {
-        "address": "2057 Rayburn House Office Building, Washington, DC 20515",
-        "phone": "(202) 225-2315"
+        "address": "207 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-9888"
       },
-      "website": "https://gosar.house.gov/"
+      "website": "https://stanton.house.gov"
     },
     {
       "district": "AZ-05",
@@ -83,47 +74,47 @@
         "address": "171 Cannon House Office Building, Washington, DC 20515",
         "phone": "(202) 225-2635"
       },
-      "website": "https://biggs.house.gov/"
+      "website": "https://biggs.house.gov"
     },
     {
       "district": "AZ-06",
       "name": "Juan Ciscomani",
       "party": "Republican",
       "dc_office": {
-        "address": "2436 Rayburn House Office Building, Washington, DC 20515",
+        "address": "1533 Longworth House Office Building, Washington, DC 20515",
         "phone": "(202) 225-2542"
       },
-      "website": "https://ciscomani.house.gov/"
+      "website": "https://ciscomani.house.gov"
     },
     {
       "district": "AZ-07",
-      "name": "Ra\u00fal M. Grijalva",
+      "name": "Ruben Gallego",
       "party": "Democratic",
       "dc_office": {
-        "address": "1610 Longworth House Office Building, Washington, DC 20515",
-        "phone": "(202) 225-2435"
+        "address": "1626 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4065"
       },
-      "website": "https://grijalva.house.gov/"
+      "website": "https://gallego.house.gov"
     },
     {
       "district": "AZ-08",
       "name": "Debbie Lesko",
       "party": "Republican",
       "dc_office": {
-        "address": "1221 Longworth House Office Building, Washington, DC 20515",
+        "address": "123 Cannon House Office Building, Washington, DC 20515",
         "phone": "(202) 225-4576"
       },
-      "website": "https://lesko.house.gov/"
+      "website": "https://lesko.house.gov"
     },
     {
       "district": "AZ-09",
-      "name": "Greg Stanton",
-      "party": "Democratic",
+      "name": "Paul Gosar",
+      "party": "Republican",
       "dc_office": {
-        "address": "1239 Longworth House Office Building, Washington, DC 20515",
-        "phone": "(202) 225-9888"
+        "address": "2057 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-2315"
       },
-      "website": "https://stanton.house.gov/"
+      "website": "https://gosar.house.gov"
     }
   ]
 }
