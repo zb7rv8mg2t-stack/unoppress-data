@@ -1,1 +1,90 @@
-
+{
+  "state": "KY",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Mitch McConnell",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "KY",
+      "dc_office": {
+        "address": "317 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2541"
+      },
+      "website": "https://www.mcconnell.senate.gov/"
+    },
+    {
+      "name": "Rand Paul",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "KY",
+      "dc_office": {
+        "address": "295 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-4343"
+      },
+      "website": "https://www.paul.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "KY-01",
+      "name": "James Comer",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2410 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3115"
+      },
+      "website": "https://comer.house.gov/"
+    },
+    {
+      "district": "KY-02",
+      "name": "Brett Guthrie",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2434 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3501"
+      },
+      "website": "https://guthrie.house.gov/"
+    },
+    {
+      "district": "KY-03",
+      "name": "Morgan McGarvey",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "1520 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5401"
+      },
+      "website": "https://mcgarvey.house.gov/"
+    },
+    {
+      "district": "KY-04",
+      "name": "Thomas Massie",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2453 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-3465"
+      },
+      "website": "https://massie.house.gov/"
+    },
+    {
+      "district": "KY-05",
+      "name": "Hal Rogers",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2406 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4601"
+      },
+      "website": "https://rogers.house.gov/"
+    },
+    {
+      "district": "KY-06",
+      "name": "Andy Barr",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2430 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4706"
+      },
+      "website": "https://barr.house.gov/"
+    }
+  ]
+}
