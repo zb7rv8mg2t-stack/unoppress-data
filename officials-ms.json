@@ -1,1 +1,70 @@
-
+{
+  "state": "MS",
+  "generated_at": "2026-02-17",
+  "senators": [
+    {
+      "name": "Roger Wicker",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "MS",
+      "dc_office": {
+        "address": "555 Dirksen Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-6253"
+      },
+      "website": "https://www.wicker.senate.gov/"
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "party": "Republican",
+      "chamber": "Senate",
+      "state": "MS",
+      "dc_office": {
+        "address": "702 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5054"
+      },
+      "website": "https://www.hydesmith.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "MS-01",
+      "name": "Trent Kelly",
+      "party": "Republican",
+      "dc_office": {
+        "address": "2246 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4306"
+      },
+      "website": "https://trentkelly.house.gov/"
+    },
+    {
+      "district": "MS-02",
+      "name": "Bennie Thompson",
+      "party": "Democrat",
+      "dc_office": {
+        "address": "2466 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5876"
+      },
+      "website": "https://benniethompson.house.gov/"
+    },
+    {
+      "district": "MS-03",
+      "name": "Michael Guest",
+      "party": "Republican",
+      "dc_office": {
+        "address": "418 Cannon House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5031"
+      },
+      "website": "https://guest.house.gov/"
+    },
+    {
+      "district": "MS-04",
+      "name": "Mike Ezell",
+      "party": "Republican",
+      "dc_office": {
+        "address": "1717 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-5772"
+      },
+      "website": "https://ezell.house.gov/"
+    }
+  ]
+}
