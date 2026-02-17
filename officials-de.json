@@ -1,0 +1,50 @@
+{
+  "state": "DE",
+  "generated_at": "2026-02-17",
+  "sources": {
+    "senate": [
+      "Sen. Chris Coons official contact page (DC office + phone)",
+      "Sen. Lisa Blunt Rochester official office locations page (DC office + phone)",
+      "U.S. Senate Senators' Suite & Telephone List (PDF)"
+    ],
+    "house": [
+      "Clerk of the House member page (DC office + phone)"
+    ]
+  },
+  "senators": [
+    {
+      "name": "Christopher A. Coons",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "DE",
+      "dc_office": {
+        "address": "218 Russell Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-5042"
+      },
+      "website": "https://www.coons.senate.gov/"
+    },
+    {
+      "name": "Lisa Blunt Rochester",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "state": "DE",
+      "dc_office": {
+        "address": "513 Hart Senate Office Building, Washington, DC 20510",
+        "phone": "(202) 224-2441"
+      },
+      "website": "https://www.bluntrochester.senate.gov/"
+    }
+  ],
+  "house": [
+    {
+      "district": "DE-AL",
+      "name": "Sarah McBride",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "1306 Longworth House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-4165"
+      },
+      "website": "https://mcbride.house.gov/"
+    }
+  ]
+}
