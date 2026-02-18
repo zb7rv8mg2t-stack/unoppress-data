@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-02-18",
-  "house": { "dem": 214, "rep": 218, "ind": 0, "total": 435 },
-  "senate": { "dem": 45, "rep": 53, "ind": 2, "total": 100 }
+  "updated_at": "2026-02-18T05:58:35.936Z",
+  "house": {
+    "dem": 0,
+    "rep": 0,
+    "ind": 0,
+    "total": 435
+  },
+  "senate": {
+    "dem": 46,
+    "rep": 54,
+    "ind": 3,
+    "total": 100
+  }
 }
