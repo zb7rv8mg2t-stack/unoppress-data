@@ -1,14 +1,14 @@
 {
   "updated_at": "2026-02-18T05:58:35.936Z",
   "house": {
-    "dem": 0,
-    "rep": 0,
+    "dem": 213,
+    "rep": 222,
     "ind": 0,
     "total": 435
   },
   "senate": {
-    "dem": 46,
-    "rep": 54,
+    "dem": 48,
+    "rep": 49,
     "ind": 3,
     "total": 100
   }
