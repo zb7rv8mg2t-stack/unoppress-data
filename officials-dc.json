@@ -1,138 +1,22 @@
 {
-  "generated_at": "2026-02-16",
-  "officials": [
+  "state": "DC",
+  "generated_at": "2026-02-18",
+  "sources": {
+    "house": ["Congress.gov member profile", "House.gov official site"],
+    "senate": []
+  },
+  "senators": [],
+  "house": [
     {
-      "id": "US-S-WA-01",
-      "name": "Patty Murray",
-      "chamber": "Senate",
-      "state": "WA",
-      "district": null,
+      "district": "DC-AL",
+      "name": "Eleanor Holmes Norton",
       "party": "Democratic",
-      "website": "https://www.murray.senate.gov/",
-      "dc_office": "154 Russell Senate Office Building",
-      "dc_phone": "(202) 224-2621"
-    },
-    {
-      "id": "US-S-WA-02",
-      "name": "Maria Cantwell",
-      "chamber": "Senate",
-      "state": "WA",
-      "district": null,
-      "party": "Democratic",
-      "website": "https://www.cantwell.senate.gov/",
-      "dc_office": "511 Hart Senate Office Building",
-      "dc_phone": "(202) 224-3441"
-    },
-
-    {
-      "id": "US-H-WA-01",
-      "name": "Suzan K. DelBene",
-      "chamber": "House",
-      "state": "WA",
-      "district": "1",
-      "party": "Democratic",
-      "website": "https://delbene.house.gov/",
-      "dc_office": "2311 Rayburn House Office Building",
-      "dc_phone": "(202) 225-6311"
-    },
-    {
-      "id": "US-H-WA-02",
-      "name": "Rick Larsen",
-      "chamber": "House",
-      "state": "WA",
-      "district": "2",
-      "party": "Democratic",
-      "website": "https://larsen.house.gov/",
-      "dc_office": "2163 Rayburn House Office Building",
-      "dc_phone": "(202) 225-2605"
-    },
-    {
-      "id": "US-H-WA-03",
-      "name": "Marie Gluesenkamp Perez",
-      "chamber": "House",
-      "state": "WA",
-      "district": "3",
-      "party": "Democratic",
-      "website": "https://gluesenkampperez.house.gov/",
-      "dc_office": "1431 Longworth House Office Building",
-      "dc_phone": "(202) 225-3536"
-    },
-    {
-      "id": "US-H-WA-04",
-      "name": "Dan Newhouse",
-      "chamber": "House",
-      "state": "WA",
-      "district": "4",
-      "party": "Republican",
-      "website": "https://newhouse.house.gov/",
-      "dc_office": "460 Cannon House Office Building",
-      "dc_phone": "(202) 225-5816"
-    },
-    {
-      "id": "US-H-WA-05",
-      "name": "Michael Baumgartner",
-      "chamber": "House",
-      "state": "WA",
-      "district": "5",
-      "party": "Republican",
-      "website": "https://baumgartner.house.gov/",
-      "dc_office": "124 Cannon House Office Building",
-      "dc_phone": "(202) 225-2006"
-    },
-    {
-      "id": "US-H-WA-06",
-      "name": "Emily Randall",
-      "chamber": "House",
-      "state": "WA",
-      "district": "6",
-      "party": "Democratic",
-      "website": "https://randall.house.gov/",
-      "dc_office": "1531 Longworth House Office Building",
-      "dc_phone": "(202) 225-5916"
-    },
-    {
-      "id": "US-H-WA-07",
-      "name": "Pramila Jayapal",
-      "chamber": "House",
-      "state": "WA",
-      "district": "7",
-      "party": "Democratic",
-      "website": "https://jayapal.house.gov/",
-      "dc_office": "2346 Rayburn House Office Building",
-      "dc_phone": "(202) 225-3106"
-    },
-    {
-      "id": "US-H-WA-08",
-      "name": "Kim Schrier",
-      "chamber": "House",
-      "state": "WA",
-      "district": "8",
-      "party": "Democratic",
-      "website": "https://schrier.house.gov/",
-      "dc_office": "1110 Longworth House Office Building",
-      "dc_phone": "(202) 225-7761"
-    },
-    {
-      "id": "US-H-WA-09",
-      "name": "Adam Smith",
-      "chamber": "House",
-      "state": "WA",
-      "district": "9",
-      "party": "Democratic",
-      "website": "https://adamsmith.house.gov/",
-      "dc_office": "2264 Rayburn House Office Building",
-      "dc_phone": "(202) 225-8901"
-    },
-    {
-      "id": "US-H-WA-10",
-      "name": "Marilyn Strickland",
-      "chamber": "House",
-      "state": "WA",
-      "district": "10",
-      "party": "Democratic",
-      "website": "https://strickland.house.gov/",
-      "dc_office": "1724 Longworth House Office Building",
-      "dc_phone": "(202) 225-9740"
+      "dc_office": {
+        "address": "2136 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-8050"
+      },
+      "website": "https://norton.house.gov/",
+      "district_offices_url": "https://norton.house.gov/contact/offices"
     }
   ]
 }
