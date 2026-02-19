@@ -1,656 +1,660 @@
 {
+  "state": "CA",
   "generated_at": "2026-02-16",
-  "source_notes": {
+  "sources": {
     "house_directory": "https://www.house.gov/representatives",
     "senate_phone_pdf": "https://www.senate.gov/general/resources/pdf/senators_phone_list.pdf"
   },
-  "officials": [
+  "senators": [
     {
-      "id": "US-S-CA-01",
       "name": "Alex Padilla",
+      "party": "Democratic",
       "chamber": "Senate",
       "state": "CA",
-      "district": null,
-      "party": "D",
+      "dc_office": {
+        "address": "SH-331 (Hart Senate Office Building)",
+        "phone": "(202) 224-3553"
+      },
       "website": "https://www.padilla.senate.gov/",
-      "dc_office": "SH-331 (Hart Senate Office Building)",
-      "dc_phone": "(202) 224-3553"
+      "district_offices_url": ""
     },
     {
-      "id": "US-S-CA-02",
       "name": "Adam B. Schiff",
+      "party": "Democratic",
       "chamber": "Senate",
       "state": "CA",
-      "district": null,
-      "party": "D",
+      "dc_office": {
+        "address": "SH-112 (Hart Senate Office Building)",
+        "phone": "(202) 224-3841"
+      },
       "website": "https://www.schiff.senate.gov/",
-      "dc_office": "SH-112 (Hart Senate Office Building)",
-      "dc_phone": "(202) 224-3841"
-    },
-
+      "district_offices_url": ""
+    }
+  ],
+  "house": [
     {
-      "id": "US-H-CA-01",
+      "district": "CA-01",
       "name": "Doug LaMalfa",
+      "party": "Republican",
       "chamber": "House",
       "state": "CA",
-      "district": "1",
-      "party": "R",
-      "website": "https://lamalfa.house.gov",
-      "dc_office_room": "408 CHOB",
-      "dc_phone": "(202) 225-3076",
-      "committees": []
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-3076"
+      },
+      "website": "https://lamalfa.house.gov"
     },
     {
-      "id": "US-H-CA-02",
+      "district": "CA-02",
       "name": "Jared Huffman",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "2",
-      "party": "D",
-      "website": "https://huffman.house.gov",
-      "dc_office_room": "2330 RHOB",
-      "dc_phone": "(202) 225-5161",
-      "committees": ["Natural Resources", "Transportation and Infrastructure"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5161"
+      },
+      "website": "https://huffman.house.gov"
     },
     {
-      "id": "US-H-CA-03",
+      "district": "CA-03",
       "name": "Kevin Kiley",
+      "party": "Republican",
       "chamber": "House",
       "state": "CA",
-      "district": "3",
-      "party": "R",
-      "website": "https://kiley.house.gov",
-      "dc_office_room": "2445 RHOB",
-      "dc_phone": "(202) 225-2523",
-      "committees": ["Education and Workforce", "Judiciary", "Transportation and Infrastructure"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2523"
+      },
+      "website": "https://kiley.house.gov"
     },
     {
-      "id": "US-H-CA-04",
+      "district": "CA-04",
       "name": "Mike Thompson",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "4",
-      "party": "D",
-      "website": "https://mikethompson.house.gov",
-      "dc_office_room": "268 CHOB",
-      "dc_phone": "(202) 225-3311",
-      "committees": ["Ways and Means"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-3311"
+      },
+      "website": "https://mikethompson.house.gov"
     },
     {
-      "id": "US-H-CA-05",
+      "district": "CA-05",
       "name": "Tom McClintock",
+      "party": "Republican",
       "chamber": "House",
       "state": "CA",
-      "district": "5",
-      "party": "R",
-      "website": "https://mcclintock.house.gov",
-      "dc_office_room": "2256 RHOB",
-      "dc_phone": "(202) 225-2511",
-      "committees": ["Budget", "Natural Resources", "Judiciary"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2511"
+      },
+      "website": "https://mcclintock.house.gov"
     },
     {
-      "id": "US-H-CA-06",
+      "district": "CA-06",
       "name": "Ami Bera",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "6",
-      "party": "D",
-      "website": "https://bera.house.gov",
-      "dc_office_room": "172 CHOB",
-      "dc_phone": "(202) 225-5716",
-      "committees": ["Foreign Affairs", "Intelligence"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5716"
+      },
+      "website": "https://bera.house.gov"
     },
     {
-      "id": "US-H-CA-07",
+      "district": "CA-07",
       "name": "Doris Matsui",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "7",
-      "party": "D",
-      "website": "https://matsui.house.gov",
-      "dc_office_room": "2206 RHOB",
-      "dc_phone": "(202) 225-7163",
-      "committees": ["Energy and Commerce"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-7163"
+      },
+      "website": "https://matsui.house.gov"
     },
     {
-      "id": "US-H-CA-08",
+      "district": "CA-08",
       "name": "John Garamendi",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "8",
-      "party": "D",
-      "website": "https://garamendi.house.gov",
-      "dc_office_room": "2428 RHOB",
-      "dc_phone": "(202) 225-1880",
-      "committees": ["Armed Services", "Transportation and Infrastructure"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-1880"
+      },
+      "website": "https://garamendi.house.gov"
     },
     {
-      "id": "US-H-CA-09",
+      "district": "CA-09",
       "name": "Josh Harder",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "9",
-      "party": "D",
-      "website": "https://harder.house.gov",
-      "dc_office_room": "209 CHOB",
-      "dc_phone": "(202) 225-4540",
-      "committees": ["Appropriations"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-4540"
+      },
+      "website": "https://harder.house.gov"
     },
     {
-      "id": "US-H-CA-10",
+      "district": "CA-10",
       "name": "Mark DeSaulnier",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "10",
-      "party": "D",
-      "website": "https://desaulnier.house.gov",
-      "dc_office_room": "2134 RHOB",
-      "dc_phone": "(202) 225-2095",
-      "committees": ["Education and Workforce", "Transportation and Infrastructure", "Ethics"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2095"
+      },
+      "website": "https://desaulnier.house.gov"
     },
     {
-      "id": "US-H-CA-11",
+      "district": "CA-11",
       "name": "Nancy Pelosi",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "11",
-      "party": "D",
-      "website": "https://pelosi.house.gov",
-      "dc_office_room": "1236 LHOB",
-      "dc_phone": "(202) 225-4965",
-      "committees": []
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-4965"
+      },
+      "website": "https://pelosi.house.gov"
     },
     {
-      "id": "US-H-CA-12",
+      "district": "CA-12",
       "name": "Lateefah Simon",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "12",
-      "party": "D",
-      "website": "https://simon.house.gov",
-      "dc_office_room": "1023 LHOB",
-      "dc_phone": "(202) 225-2661",
-      "committees": ["Oversight and Government Reform", "Small Business"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2661"
+      },
+      "website": "https://simon.house.gov"
     },
     {
-      "id": "US-H-CA-13",
+      "district": "CA-13",
       "name": "Adam Gray",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "13",
-      "party": "D",
-      "website": "https://gray.house.gov",
-      "dc_office_room": "1230 LHOB",
-      "dc_phone": "(202) 225-1947",
-      "committees": ["Agriculture", "Natural Resources"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-1947"
+      },
+      "website": "https://gray.house.gov"
     },
     {
-      "id": "US-H-CA-14",
+      "district": "CA-14",
       "name": "Eric Swalwell",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "14",
-      "party": "D",
-      "website": "https://swalwell.house.gov",
-      "dc_office_room": "174 CHOB",
-      "dc_phone": "(202) 225-5065",
-      "committees": ["Homeland Security", "Judiciary", "Select Subcomm to Investigate Questions about Jan 6, 2021"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5065"
+      },
+      "website": "https://swalwell.house.gov"
     },
     {
-      "id": "US-H-CA-15",
+      "district": "CA-15",
       "name": "Kevin Mullin",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "15",
-      "party": "D",
-      "website": "https://kevinmullin.house.gov",
-      "dc_office_room": "1404 LHOB",
-      "dc_phone": "(202) 225-3531",
-      "committees": ["Energy and Commerce"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-3531"
+      },
+      "website": "https://kevinmullin.house.gov"
     },
     {
-      "id": "US-H-CA-16",
+      "district": "CA-16",
       "name": "Sam Liccardo",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "16",
-      "party": "D",
-      "website": "https://liccardo.house.gov",
-      "dc_office_room": "1117 LHOB",
-      "dc_phone": "(202) 225-8104",
-      "committees": ["Financial Services"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-8104"
+      },
+      "website": "https://liccardo.house.gov"
     },
     {
-      "id": "US-H-CA-17",
+      "district": "CA-17",
       "name": "Ro Khanna",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "17",
-      "party": "D",
-      "website": "https://khanna.house.gov",
-      "dc_office_room": "306 CHOB",
-      "dc_phone": "(202) 225-2631",
-      "committees": ["Armed Services", "Oversight and Government Reform", "Select Comm on the Strategic Competition US and China"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2631"
+      },
+      "website": "https://khanna.house.gov"
     },
     {
-      "id": "US-H-CA-18",
+      "district": "CA-18",
       "name": "Zoe Lofgren",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "18",
-      "party": "D",
-      "website": "https://lofgren.house.gov",
-      "dc_office_room": "1401 LHOB",
-      "dc_phone": "(202) 225-3072",
-      "committees": ["Judiciary", "Science, Space, and Technology"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-3072"
+      },
+      "website": "https://lofgren.house.gov"
     },
     {
-      "id": "US-H-CA-19",
+      "district": "CA-19",
       "name": "Jimmy Panetta",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "19",
-      "party": "D",
-      "website": "https://panetta.house.gov",
-      "dc_office_room": "200 CHOB",
-      "dc_phone": "(202) 225-2861",
-      "committees": ["Budget", "Ways and Means"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2861"
+      },
+      "website": "https://panetta.house.gov"
     },
     {
-      "id": "US-H-CA-20",
+      "district": "CA-20",
       "name": "Vince Fong",
+      "party": "Republican",
       "chamber": "House",
       "state": "CA",
-      "district": "20",
-      "party": "R",
-      "website": "https://fong.house.gov",
-      "dc_office_room": "243 CHOB",
-      "dc_phone": "(202) 225-2915",
-      "committees": ["Homeland Security", "Transportation and Infrastructure", "Science, Space, and Technology"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2915"
+      },
+      "website": "https://fong.house.gov"
     },
     {
-      "id": "US-H-CA-21",
+      "district": "CA-21",
       "name": "Jim Costa",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "21",
-      "party": "D",
-      "website": "https://costa.house.gov",
-      "dc_office_room": "2081 RHOB",
-      "dc_phone": "(202) 225-3341",
-      "committees": ["Agriculture", "Foreign Affairs"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-3341"
+      },
+      "website": "https://costa.house.gov"
     },
     {
-      "id": "US-H-CA-22",
+      "district": "CA-22",
       "name": "David Valadao",
+      "party": "Republican",
       "chamber": "House",
       "state": "CA",
-      "district": "22",
-      "party": "R",
-      "website": "https://valadao.house.gov",
-      "dc_office_room": "2465 RHOB",
-      "dc_phone": "(202) 225-4695",
-      "committees": ["Appropriations", "Joint Committee of Congress on the Library"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-4695"
+      },
+      "website": "https://valadao.house.gov"
     },
     {
-      "id": "US-H-CA-23",
+      "district": "CA-23",
       "name": "Jay Obernolte",
+      "party": "Republican",
       "chamber": "House",
       "state": "CA",
-      "district": "23",
-      "party": "R",
-      "website": "https://obernolte.house.gov",
-      "dc_office_room": "2433 RHOB",
-      "dc_phone": "(202) 225-5861",
-      "committees": ["Budget", "Energy and Commerce", "Science, Space, and Technology"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5861"
+      },
+      "website": "https://obernolte.house.gov"
     },
     {
-      "id": "US-H-CA-24",
+      "district": "CA-24",
       "name": "Salud Carbajal",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "24",
-      "party": "D",
-      "website": "https://carbajal.house.gov",
-      "dc_office_room": "2331 RHOB",
-      "dc_phone": "(202) 225-3601",
-      "committees": ["Agriculture", "Armed Services", "Transportation and Infrastructure"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-3601"
+      },
+      "website": "https://carbajal.house.gov"
     },
     {
-      "id": "US-H-CA-25",
+      "district": "CA-25",
       "name": "Raul Ruiz",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "25",
-      "party": "D",
-      "website": "https://ruiz.house.gov",
-      "dc_office_room": "2342 RHOB",
-      "dc_phone": "(202) 225-5330",
-      "committees": ["Energy and Commerce"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5330"
+      },
+      "website": "https://ruiz.house.gov"
     },
     {
-      "id": "US-H-CA-26",
+      "district": "CA-26",
       "name": "Julia Brownley",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "26",
-      "party": "D",
-      "website": "https://juliabrownley.house.gov",
-      "dc_office_room": "2262 RHOB",
-      "dc_phone": "(202) 225-5811",
-      "committees": ["Natural Resources", "Transportation and Infrastructure", "Veterans' Affairs"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5811"
+      },
+      "website": "https://juliabrownley.house.gov"
     },
     {
-      "id": "US-H-CA-27",
+      "district": "CA-27",
       "name": "George Whitesides",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "27",
-      "party": "D",
-      "website": "https://whitesides.house.gov",
-      "dc_office_room": "1504 LHOB",
-      "dc_phone": "(202) 225-1956",
-      "committees": ["Armed Services", "Science, Space, and Technology"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-1956"
+      },
+      "website": "https://whitesides.house.gov"
     },
     {
-      "id": "US-H-CA-28",
+      "district": "CA-28",
       "name": "Judy Chu",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "28",
-      "party": "D",
-      "website": "https://chu.house.gov",
-      "dc_office_room": "2423 RHOB",
-      "dc_phone": "(202) 225-5464",
-      "committees": ["Budget", "Ways and Means"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5464"
+      },
+      "website": "https://chu.house.gov"
     },
     {
-      "id": "US-H-CA-29",
+      "district": "CA-29",
       "name": "Luz Rivas",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "29",
-      "party": "D",
-      "website": "https://rivas.house.gov",
-      "dc_office_room": "1319 LHOB",
-      "dc_phone": "(202) 225-6131",
-      "committees": ["Natural Resources", "Science, Space, and Technology"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-6131"
+      },
+      "website": "https://rivas.house.gov"
     },
     {
-      "id": "US-H-CA-30",
+      "district": "CA-30",
       "name": "Laura Friedman",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "30",
-      "party": "D",
-      "website": "https://friedman.house.gov",
-      "dc_office_room": "1517 LHOB",
-      "dc_phone": "(202) 225-4176",
-      "committees": ["Transportation and Infrastructure", "Science, Space, and Technology"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-4176"
+      },
+      "website": "https://friedman.house.gov"
     },
     {
-      "id": "US-H-CA-31",
+      "district": "CA-31",
       "name": "Gilbert Cisneros",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "31",
-      "party": "D",
-      "website": "https://cisneros.house.gov",
-      "dc_office_room": "2463 RHOB",
-      "dc_phone": "(202) 225-5256",
-      "committees": ["Armed Services", "Small Business"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5256"
+      },
+      "website": "https://cisneros.house.gov"
     },
     {
-      "id": "US-H-CA-32",
+      "district": "CA-32",
       "name": "Brad Sherman",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "32",
-      "party": "D",
-      "website": "https://sherman.house.gov",
-      "dc_office_room": "2365 RHOB",
-      "dc_phone": "(202) 225-5911",
-      "committees": ["Financial Services", "Foreign Affairs"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5911"
+      },
+      "website": "https://sherman.house.gov"
     },
     {
-      "id": "US-H-CA-33",
+      "district": "CA-33",
       "name": "Pete Aguilar",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "33",
-      "party": "D",
-      "website": "https://aguilar.house.gov",
-      "dc_office_room": "108 CHOB",
-      "dc_phone": "(202) 225-3201",
-      "committees": ["Appropriations"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-3201"
+      },
+      "website": "https://aguilar.house.gov"
     },
     {
-      "id": "US-H-CA-34",
+      "district": "CA-34",
       "name": "Jimmy Gomez",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "34",
-      "party": "D",
-      "website": "https://gomez.house.gov",
-      "dc_office_room": "506 CHOB",
-      "dc_phone": "(202) 225-6235",
-      "committees": ["Intelligence", "Ways and Means"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-6235"
+      },
+      "website": "https://gomez.house.gov"
     },
     {
-      "id": "US-H-CA-35",
+      "district": "CA-35",
       "name": "Norma Torres",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "35",
-      "party": "D",
-      "website": "https://torres.house.gov",
-      "dc_office_room": "2227 RHOB",
-      "dc_phone": "(202) 225-6161",
-      "committees": ["Appropriations", "House Administration"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-6161"
+      },
+      "website": "https://torres.house.gov"
     },
     {
-      "id": "US-H-CA-36",
+      "district": "CA-36",
       "name": "Ted Lieu",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "36",
-      "party": "D",
-      "website": "https://lieu.house.gov",
-      "dc_office_room": "2454 RHOB",
-      "dc_phone": "(202) 225-3976",
-      "committees": ["Foreign Affairs", "Judiciary"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-3976"
+      },
+      "website": "https://lieu.house.gov"
     },
     {
-      "id": "US-H-CA-37",
+      "district": "CA-37",
       "name": "Sydney Kamlager-Dove",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "37",
-      "party": "D",
-      "website": "https://kamlager-dove.house.gov",
-      "dc_office_room": "144 CHOB",
-      "dc_phone": "(202) 225-7084",
-      "committees": ["Foreign Affairs", "Judiciary"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-7084"
+      },
+      "website": "https://kamlager-dove.house.gov"
     },
     {
-      "id": "US-H-CA-38",
+      "district": "CA-38",
       "name": "Linda Sanchez",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "38",
-      "party": "D",
-      "website": "https://lindasanchez.house.gov",
-      "dc_office_room": "2309 RHOB",
-      "dc_phone": "(202) 225-6676",
-      "committees": ["Ways and Means"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-6676"
+      },
+      "website": "https://lindasanchez.house.gov"
     },
     {
-      "id": "US-H-CA-39",
+      "district": "CA-39",
       "name": "Mark Takano",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "39",
-      "party": "D",
-      "website": "https://takano.house.gov",
-      "dc_office_room": "2078 RHOB",
-      "dc_phone": "(202) 225-2305",
-      "committees": ["Education and Workforce", "Veterans' Affairs"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2305"
+      },
+      "website": "https://takano.house.gov"
     },
     {
-      "id": "US-H-CA-40",
+      "district": "CA-40",
       "name": "Young Kim",
+      "party": "Republican",
       "chamber": "House",
       "state": "CA",
-      "district": "40",
-      "party": "R",
-      "website": "https://youngkim.house.gov",
-      "dc_office_room": "2439 RHOB",
-      "dc_phone": "(202) 225-4111",
-      "committees": ["Financial Services", "Foreign Affairs", "Select Comm on the Strategic Competition US and China"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-4111"
+      },
+      "website": "https://youngkim.house.gov"
     },
     {
-      "id": "US-H-CA-41",
+      "district": "CA-41",
       "name": "Ken Calvert",
+      "party": "Republican",
       "chamber": "House",
       "state": "CA",
-      "district": "41",
-      "party": "R",
-      "website": "https://calvert.house.gov",
-      "dc_office_room": "2205 RHOB",
-      "dc_phone": "(202) 225-1986",
-      "committees": ["Appropriations"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-1986"
+      },
+      "website": "https://calvert.house.gov"
     },
     {
-      "id": "US-H-CA-42",
+      "district": "CA-42",
       "name": "Robert Garcia",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "42",
-      "party": "D",
-      "website": "https://robertgarcia.house.gov",
-      "dc_office_room": "109 CHOB",
-      "dc_phone": "(202) 225-7924",
-      "committees": ["Oversight and Government Reform", "Transportation and Infrastructure"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-7924"
+      },
+      "website": "https://robertgarcia.house.gov"
     },
     {
-      "id": "US-H-CA-43",
+      "district": "CA-43",
       "name": "Maxine Waters",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "43",
-      "party": "D",
-      "website": "https://waters.house.gov",
-      "dc_office_room": "2221 RHOB",
-      "dc_phone": "(202) 225-2201",
-      "committees": ["Financial Services"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2201"
+      },
+      "website": "https://waters.house.gov"
     },
     {
-      "id": "US-H-CA-44",
+      "district": "CA-44",
       "name": "Nanette Barragan",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "44",
-      "party": "D",
-      "website": "https://barragan.house.gov",
-      "dc_office_room": "2312 RHOB",
-      "dc_phone": "(202) 225-8220",
-      "committees": ["Energy and Commerce"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-8220"
+      },
+      "website": "https://barragan.house.gov"
     },
     {
-      "id": "US-H-CA-45",
+      "district": "CA-45",
       "name": "Derek Tran",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "45",
-      "party": "D",
-      "website": "https://tran.house.gov",
-      "dc_office_room": "1127 LHOB",
-      "dc_phone": "(202) 225-2415",
-      "committees": ["Armed Services", "Small Business"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2415"
+      },
+      "website": "https://tran.house.gov"
     },
     {
-      "id": "US-H-CA-46",
+      "district": "CA-46",
       "name": "J. Correa",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "46",
-      "party": "D",
-      "website": "https://correa.house.gov",
-      "dc_office_room": "2082 RHOB",
-      "dc_phone": "(202) 225-2965",
-      "committees": ["Homeland Security", "Judiciary"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2965"
+      },
+      "website": "https://correa.house.gov"
     },
     {
-      "id": "US-H-CA-47",
+      "district": "CA-47",
       "name": "Dave Min",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "47",
-      "party": "D",
-      "website": "https://min.house.gov",
-      "dc_office_room": "1034 LHOB",
-      "dc_phone": "(202) 225-5611",
-      "committees": ["Oversight and Government Reform", "Natural Resources"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5611"
+      },
+      "website": "https://min.house.gov"
     },
     {
-      "id": "US-H-CA-48",
+      "district": "CA-48",
       "name": "Darrell Issa",
+      "party": "Republican",
       "chamber": "House",
       "state": "CA",
-      "district": "48",
-      "party": "R",
-      "website": "https://issa.house.gov",
-      "dc_office_room": "2108 RHOB",
-      "dc_phone": "(202) 225-5672",
-      "committees": ["Foreign Affairs", "Judiciary", "Science, Space, and Technology"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-5672"
+      },
+      "website": "https://issa.house.gov"
     },
     {
-      "id": "US-H-CA-49",
+      "district": "CA-49",
       "name": "Mike Levin",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "49",
-      "party": "D",
-      "website": "https://levin.house.gov",
-      "dc_office_room": "2352 RHOB",
-      "dc_phone": "(202) 225-3906",
-      "committees": ["Appropriations"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-3906"
+      },
+      "website": "https://levin.house.gov"
     },
     {
-      "id": "US-H-CA-50",
+      "district": "CA-50",
       "name": "Scott Peters",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "50",
-      "party": "D",
-      "website": "https://scottpeters.house.gov",
-      "dc_office_room": "2369 RHOB",
-      "dc_phone": "(202) 225-0508",
-      "committees": ["Budget", "Energy and Commerce"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-0508"
+      },
+      "website": "https://scottpeters.house.gov"
     },
     {
-      "id": "US-H-CA-51",
+      "district": "CA-51",
       "name": "Sara Jacobs",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "51",
-      "party": "D",
-      "website": "https://sarajacobs.house.gov",
-      "dc_office_room": "2348 RHOB",
-      "dc_phone": "(202) 225-2040",
-      "committees": ["Armed Services", "Foreign Affairs"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-2040"
+      },
+      "website": "https://sarajacobs.house.gov"
     },
     {
-      "id": "US-H-CA-52",
+      "district": "CA-52",
       "name": "Juan Vargas",
+      "party": "Democratic",
       "chamber": "House",
       "state": "CA",
-      "district": "52",
-      "party": "D",
-      "website": "https://vargas.house.gov",
-      "dc_office_room": "2467 RHOB",
-      "dc_phone": "(202) 225-8045",
-      "committees": ["Financial Services"]
+      "dc_office": {
+        "address": "",
+        "phone": "(202) 225-8045"
+      },
+      "website": "https://vargas.house.gov"
     }
   ]
 }
