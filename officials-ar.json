@@ -1,0 +1,22 @@
+{
+  "state": "DC",
+  "generated_at": "2026-02-18",
+  "sources": {
+    "house": ["Congress.gov member profile", "House.gov official site"],
+    "senate": []
+  },
+  "senators": [],
+  "house": [
+    {
+      "district": "DC-AL",
+      "name": "Eleanor Holmes Norton",
+      "party": "Democratic",
+      "dc_office": {
+        "address": "2136 Rayburn House Office Building, Washington, DC 20515",
+        "phone": "(202) 225-8050"
+      },
+      "website": "https://norton.house.gov/",
+      "district_offices_url": "https://norton.house.gov/contact/offices"
+    }
+  ]
+}
